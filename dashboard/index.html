@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grayson County TX – Motivated Seller Leads</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg:#0a0c10;--surface:#111318;--surface2:#181b22;--border:#1f2330;--border2:#2a2f3f;
+  --text:#e2e6f0;--muted:#6b7280;--accent:#f97316;--accent2:#fb923c;--green:#22c55e;
+  --red:#ef4444;--yellow:#eab308;--blue:#3b82f6;--purple:#a855f7;--teal:#14b8a6;
+  --font-head:'Syne',sans-serif;--font-body:'Inter',sans-serif;--font-mono:'DM Mono',monospace;
+  --radius:6px;--shadow:0 4px 24px rgba(0,0,0,.5);
+}
+html{font-size:14px;}
+body{background:var(--bg);color:var(--text);font-family:var(--font-body);min-height:100vh;overflow-x:hidden;}
+.app{display:flex;flex-direction:column;min-height:100vh;}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:60px;position:sticky;top:0;z-index:100;}
+.logo{font-family:var(--font-head);font-size:1.15rem;font-weight:800;letter-spacing:-.02em;display:flex;align-items:center;gap:.5rem;}
+.logo span{color:var(--accent);}
+.header-meta{display:flex;align-items:center;gap:1rem;font-size:.78rem;color:var(--muted);font-family:var(--font-mono);}
+.pill{background:var(--surface2);border:1px solid var(--border2);border-radius:100px;padding:.2rem .7rem;font-size:.72rem;color:var(--muted);}
+.pill.live{color:var(--green);border-color:rgba(34,197,94,.3);background:rgba(34,197,94,.08);}
+.pill.demo{color:var(--yellow);border-color:rgba(234,179,8,.3);background:rgba(234,179,8,.08);}
+.stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1px;background:var(--border);border-bottom:1px solid var(--border);}
+.stat{background:var(--surface);padding:1.25rem 1.5rem;display:flex;flex-direction:column;gap:.25rem;}
+.stat-label{font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-family:var(--font-mono);}
+.stat-value{font-family:var(--font-head);font-size:2rem;font-weight:800;line-height:1;color:var(--text);}
+.stat-value.accent{color:var(--accent);}.stat-value.green{color:var(--green);}
+.toolbar{background:var(--surface);border-bottom:1px solid var(--border);padding:.75rem 2rem;display:flex;flex-direction:column;gap:.6rem;}
+.toolbar-row{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;}
+.search-wrap{position:relative;flex:1;min-width:200px;max-width:340px;}
+.search-wrap svg{position:absolute;left:.7rem;top:50%;transform:translateY(-50%);opacity:.4;pointer-events:none;}
+.search-wrap input{width:100%;background:var(--surface2);border:1px solid var(--border2);border-radius:var(--radius);padding:.45rem .75rem .45rem 2.2rem;color:var(--text);font-family:var(--font-body);font-size:.85rem;outline:none;transition:border .15s;}
+.search-wrap input:focus{border-color:var(--accent);}
+.search-wrap input::placeholder{color:var(--muted);}
+select,.btn{background:var(--surface2);border:1px solid var(--border2);border-radius:var(--radius);padding:.45rem .85rem;color:var(--text);font-family:var(--font-body);font-size:.82rem;cursor:pointer;outline:none;transition:border .15s,background .15s;}
+select:focus,.btn:hover{border-color:var(--accent);}
+.btn-accent{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600;}
+.btn-accent:hover{background:var(--accent2);border-color:var(--accent2);}
+.score-filter{display:flex;align-items:center;gap:.4rem;font-size:.78rem;color:var(--muted);white-space:nowrap;}
+.score-filter input[type=range]{accent-color:var(--accent);width:80px;cursor:pointer;}
+.date-filter{display:flex;align-items:center;gap:.4rem;font-size:.78rem;color:var(--muted);white-space:nowrap;}
+.date-filter input[type=date]{background:var(--surface2);border:1px solid var(--border2);border-radius:var(--radius);padding:.38rem .6rem;color:var(--text);font-family:var(--font-mono);font-size:.78rem;outline:none;cursor:pointer;transition:border .15s;color-scheme:dark;}
+.date-filter input[type=date]:focus{border-color:var(--accent);}
+.date-quick{display:flex;align-items:center;gap:.3rem;}
+.date-quick button{background:var(--surface2);border:1px solid var(--border2);border-radius:var(--radius);padding:.3rem .55rem;color:var(--muted);font-family:var(--font-mono);font-size:.7rem;cursor:pointer;transition:border .15s,color .15s;}
+.date-quick button:hover,.date-quick button.active{border-color:var(--accent);color:var(--accent);}
+.spacer{flex:1;}
+.table-wrap{flex:1;overflow-x:auto;overflow-y:auto;padding:1.5rem 2rem;}
+table{width:100%;border-collapse:collapse;font-size:.82rem;}
+thead th{text-align:left;padding:.5rem .75rem;font-family:var(--font-mono);font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border);white-space:nowrap;cursor:pointer;user-select:none;}
+thead th:hover{color:var(--text);}
+thead th .sort-icon{margin-left:.25rem;opacity:.4;}
+thead th.sorted .sort-icon{opacity:1;color:var(--accent);}
+tbody tr{border-bottom:1px solid var(--border);transition:background .1s;}
+tbody tr:hover{background:var(--surface2);}
+tbody tr.demo-row td{opacity:.75;}
+td{padding:.6rem .75rem;vertical-align:top;max-width:220px;}
+.score-badge{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:50%;font-family:var(--font-head);font-size:.85rem;font-weight:800;border:2px solid;}
+.score-hot{background:rgba(249,115,22,.15);border-color:var(--accent);color:var(--accent);}
+.score-warm{background:rgba(234,179,8,.12);border-color:var(--yellow);color:var(--yellow);}
+.score-cold{background:rgba(107,114,128,.1);border-color:var(--muted);color:var(--muted);}
+.type-badge{display:inline-block;font-family:var(--font-mono);font-size:.68rem;font-weight:500;padding:.18rem .5rem;border-radius:4px;letter-spacing:.04em;white-space:nowrap;}
+.cat-pre_foreclosure{background:rgba(239,68,68,.12);color:var(--red);border:1px solid rgba(239,68,68,.25);}
+.cat-judgment{background:rgba(234,179,8,.1);color:var(--yellow);border:1px solid rgba(234,179,8,.2);}
+.cat-lien{background:rgba(168,85,247,.1);color:var(--purple);border:1px solid rgba(168,85,247,.2);}
+.cat-probate{background:rgba(20,184,166,.1);color:var(--teal);border:1px solid rgba(20,184,166,.2);}
+.cat-other{background:rgba(107,114,128,.1);color:var(--muted);border:1px solid var(--border2);}
+.flags-cell{display:flex;flex-wrap:wrap;gap:.25rem;max-width:260px;}
+.flag-chip{font-size:.62rem;padding:.1rem .4rem;border-radius:3px;background:rgba(249,115,22,.08);color:var(--accent2);border:1px solid rgba(249,115,22,.2);white-space:nowrap;}
+.addr-cell{line-height:1.55;}
+.addr-prop{color:var(--text);}
+.addr-mail{font-size:.75rem;color:var(--muted);}
+.amount-cell{font-family:var(--font-mono);text-align:right;}
+.link-btn{color:var(--accent);text-decoration:none;font-size:.75rem;font-family:var(--font-mono);opacity:.8;transition:opacity .15s;white-space:nowrap;}
+.link-btn:hover{opacity:1;text-decoration:underline;}
+.no-data{text-align:center;padding:4rem 2rem;color:var(--muted);}
+.no-data h2{font-family:var(--font-head);font-size:1.5rem;margin-bottom:.5rem;}
+.pagination{display:flex;align-items:center;justify-content:flex-end;gap:.5rem;padding:1rem 2rem;border-top:1px solid var(--border);font-size:.78rem;color:var(--muted);font-family:var(--font-mono);}
+.page-btn{background:var(--surface2);border:1px solid var(--border2);border-radius:var(--radius);padding:.3rem .65rem;color:var(--text);cursor:pointer;font-family:var(--font-mono);font-size:.78rem;transition:border .15s;}
+.page-btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent);}
+.page-btn:disabled{opacity:.35;cursor:not-allowed;}
+.page-btn.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+.modal-backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:200;align-items:center;justify-content:center;}
+.modal-backdrop.open{display:flex;}
+.modal{background:var(--surface);border:1px solid var(--border2);border-radius:10px;width:640px;max-width:95vw;max-height:85vh;overflow-y:auto;box-shadow:var(--shadow);animation:slideUp .2s ease;}
+@keyframes slideUp{from{transform:translateY(20px);opacity:0;}to{transform:translateY(0);opacity:1;}}
+.modal-header{padding:1.25rem 1.5rem;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;}
+.modal-title{font-family:var(--font-head);font-size:1.1rem;font-weight:700;}
+.modal-close{background:none;border:none;color:var(--muted);font-size:1.4rem;cursor:pointer;line-height:1;padding:0;transition:color .15s;}
+.modal-close:hover{color:var(--text);}
+.modal-body{padding:1.5rem;display:flex;flex-direction:column;gap:1.25rem;}
+.modal-grid{display:grid;grid-template-columns:1fr 1fr;gap:.75rem 1.5rem;}
+.modal-field label{display:block;font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-family:var(--font-mono);margin-bottom:.2rem;}
+.modal-field .val{font-size:.9rem;color:var(--text);word-break:break-word;}
+.modal-field .val.mono{font-family:var(--font-mono);}
+.section-title{font-family:var(--font-mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:.4rem;margin-bottom:.6rem;}
+.demo-banner{background:rgba(234,179,8,.08);border-bottom:1px solid rgba(234,179,8,.2);padding:.5rem 2rem;font-size:.78rem;color:var(--yellow);display:none;}
+.demo-banner.show{display:block;}
+.loading{display:flex;align-items:center;justify-content:center;padding:5rem;gap:.75rem;color:var(--muted);font-family:var(--font-mono);font-size:.85rem;}
+.spinner{width:20px;height:20px;border:2px solid var(--border2);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg);}}
+@media(max-width:768px){header{padding:0 1rem;}.toolbar{padding:.75rem 1rem;}.table-wrap{padding:.75rem 1rem;}.stats-row{grid-template-columns:repeat(2,1fr);}.pagination{padding:.75rem 1rem;}}
+</style>
+</head>
+<body>
+<div class="app">
+<header>
+  <div class="logo">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+      <path d="M10 2L3 7v11h5v-5h4v5h5V7L10 2z" fill="var(--accent)" opacity=".8"/>
+    </svg>
+    Grayson County TX <span>// Leads</span>
+  </div>
+  <div class="header-meta">
+    <span id="fetch-time">Loading…</span>
+    <span class="pill" id="status-pill">—</span>
+  </div>
+</header>
+<div class="demo-banner" id="demo-banner">⚠ Demo data shown. Once the GitHub Action runs, live records will replace this.</div>
+<div class="stats-row">
+  <div class="stat"><div class="stat-label">Total Leads</div><div class="stat-value accent" id="s-total">—</div></div>
+  <div class="stat"><div class="stat-label">With Address</div><div class="stat-value green" id="s-addr">—</div></div>
+  <div class="stat"><div class="stat-label">Hot (≥70)</div><div class="stat-value accent" id="s-hot">—</div></div>
+  <div class="stat"><div class="stat-label">Pre-Foreclosure</div><div class="stat-value" id="s-fc">—</div></div>
+  <div class="stat"><div class="stat-label">Tax / Judgment</div><div class="stat-value" id="s-tj">—</div></div>
+  <div class="stat"><div class="stat-label">Liens</div><div class="stat-value" id="s-ln">—</div></div>
+  <div class="stat"><div class="stat-label">Date Range</div><div class="stat-value" style="font-size:1rem;" id="s-range">—</div></div>
+</div>
+<div class="toolbar">
+  <div class="toolbar-row">
+    <div class="search-wrap">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="search" placeholder="Search owner, address, doc #…">
+    </div>
+    <select id="filter-type">
+      <option value="">All Doc Types</option>
+      <option value="LP">LP – Lis Pendens</option>
+      <option value="FTL">FTL – Federal Tax Lien</option>
+      <option value="STL">STL – State Tax Lien</option>
+      <option value="AJ">AJ – Abstract of Judgment</option>
+      <option value="JD">JD – Judgment</option>
+      <option value="PB">PB – Probate</option>
+      <option value="AH">AH – Affidavit of Heirship</option>
+      <option value="LN">LN – Lien</option>
+      <option value="ML">ML – Mechanics Lien</option>
+      <option value="CSL">CSL – Child Support Lien</option>
+      <option value="HL">HL – Hospital Lien</option>
+      <option value="ALN">ALN – HOA Lien</option>
+      <option value="DV">DV – Divorce</option>
+      <option value="QCD">QCD – Quit Claim Deed</option>
+    </select>
+    <select id="filter-cat">
+      <option value="">All Categories</option>
+      <option value="pre_foreclosure">Pre-Foreclosure</option>
+      <option value="judgment">Judgment</option>
+      <option value="lien">Lien</option>
+      <option value="probate">Probate</option>
+      <option value="other">Other</option>
+    </select>
+    <div class="score-filter">Score ≥ <span id="score-val">0</span><input type="range" id="score-filter" min="0" max="100" value="0" step="5"></div>
+    <div class="spacer"></div>
+    <button class="btn btn-accent" onclick="exportCSV()">↓ GHL Export</button>
+  </div>
+  <div class="toolbar-row">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity:.5;flex-shrink:0"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    <span style="font-size:.78rem;color:var(--muted);white-space:nowrap">Filed Date:</span>
+    <div class="date-filter">
+      <input type="date" id="date-from">
+      <span style="color:var(--muted)">→</span>
+      <input type="date" id="date-to">
+    </div>
+    <div class="date-quick">
+      <button onclick="setQuickDate(0)" id="qd-today">Today</button>
+      <button onclick="setQuickDate(2)" id="qd-2d">2d</button>
+      <button onclick="setQuickDate(7)" id="qd-7d">7d</button>
+      <button onclick="setQuickDate(14)" id="qd-14d">14d</button>
+      <button onclick="setQuickDate(30)" id="qd-30d">30d</button>
+      <button onclick="setQuickDate(0,'clear')" id="qd-all">All</button>
+    </div>
+  </div>
+</div>
+<div class="table-wrap">
+  <div class="loading" id="loading-state"><div class="spinner"></div> Loading records…</div>
+  <table id="leads-table" style="display:none">
+    <thead>
+      <tr>
+        <th data-col="score">Score <span class="sort-icon">↕</span></th>
+        <th data-col="doc_type">Type <span class="sort-icon">↕</span></th>
+        <th data-col="filed">Filed <span class="sort-icon">↕</span></th>
+        <th data-col="owner">Owner / Grantor <span class="sort-icon">↕</span></th>
+        <th data-col="amount">Amount <span class="sort-icon">↕</span></th>
+        <th>Flags</th>
+        <th>Property Address</th>
+        <th>Doc #</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="leads-body"></tbody>
+  </table>
+  <div class="no-data" id="no-data" style="display:none"><h2>No leads found</h2><p>Adjust filters or wait for next scrape.</p></div>
+</div>
+<div class="pagination" id="pagination"></div>
+<div class="modal-backdrop" id="modal-backdrop" onclick="closeModal(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <div>
+        <div class="modal-title" id="modal-title">Record Detail</div>
+        <div id="modal-subtitle" style="font-size:.78rem;color:var(--muted);margin-top:.2rem;font-family:var(--font-mono)"></div>
+      </div>
+      <button class="modal-close" onclick="closeModal()">×</button>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+<script>
+let ALL_RECORDS=[],filtered=[],sortCol='score',sortDir=-1,page=1;
+const PAGE_SIZE=50;
+function toYMD(d){return d.toISOString().slice(0,10);}
+function setQuickDate(days,mode){
+  const ids=['qd-today','qd-2d','qd-7d','qd-14d','qd-30d','qd-all'];
+  ids.forEach(id=>document.getElementById(id).classList.remove('active'));
+  if(mode==='clear'){
+    document.getElementById('date-from').value='';
+    document.getElementById('date-to').value='';
+    document.getElementById('qd-all').classList.add('active');
+  }else{
+    const today=new Date();const from=new Date();
+    from.setDate(today.getDate()-days);
+    document.getElementById('date-from').value=toYMD(from);
+    document.getElementById('date-to').value=toYMD(today);
+    const map={0:'qd-today',2:'qd-2d',7:'qd-7d',14:'qd-14d',30:'qd-30d'};
+    if(map[days])document.getElementById(map[days]).classList.add('active');
+  }
+  applyFilters();
+}
+async function loadData(){
+  try{
+    const resp=await fetch('records.json?_='+Date.now());
+    if(!resp.ok)throw new Error('HTTP '+resp.status);
+    const data=await resp.json();
+    try{document.getElementById('fetch-time').textContent=data.fetched_at?'Updated '+formatDate(data.fetched_at):'Not yet run';}catch(e){}
+    try{
+      const hasDemo=(data.records||[]).some(r=>r._demo);
+      if(hasDemo){document.getElementById('demo-banner').classList.add('show');document.getElementById('status-pill').textContent='DEMO';document.getElementById('status-pill').classList.add('demo');}
+      else{document.getElementById('status-pill').textContent='LIVE';document.getElementById('status-pill').classList.add('live');}
+    }catch(e){}
+    ALL_RECORDS=data.records||[];
+    try{document.getElementById('loading-state').style.display='none';}catch(e){}
+    try{document.getElementById('leads-table').style.display='table';}catch(e){}
+    try{updateStats(data);}catch(e){}
+    try{applyFilters();}catch(e){}
+  }catch(e){
+    try{document.getElementById('loading-state').innerHTML='<div style="color:var(--red)">Failed to load: '+e.message+'</div>';}catch(x){}
+  }
+}
+function updateStats(data){
+  const recs=data.records||[];
+  set('s-total',recs.length);set('s-addr',data.with_address||0);
+  set('s-hot',recs.filter(r=>r.score>=70).length);
+  set('s-fc',recs.filter(r=>r.cat==='pre_foreclosure').length);
+  set('s-tj',recs.filter(r=>r.cat==='judgment').length);
+  set('s-ln',recs.filter(r=>r.cat==='lien').length);
+  const dr=data.date_range;set('s-range',dr&&dr.from?dr.from+' – '+dr.to:'—');
+}
+function set(id,val){const el=document.getElementById(id);if(el)el.textContent=val;}
+function applyFilters(){
+  const q=document.getElementById('search').value.trim().toLowerCase();
+  const type=document.getElementById('filter-type').value;
+  const cat=document.getElementById('filter-cat').value;
+  const minScr=parseInt(document.getElementById('score-filter').value)||0;
+  const dateFrom=document.getElementById('date-from').value;
+  const dateTo=document.getElementById('date-to').value;
+  filtered=ALL_RECORDS.filter(r=>{
+    if(type&&r.doc_type!==type)return false;
+    if(cat&&r.cat!==cat)return false;
+    if(r.score<minScr)return false;
+    if(dateFrom&&r.filed&&r.filed<dateFrom)return false;
+    if(dateTo&&r.filed&&r.filed>dateTo)return false;
+    if(q){const hay=[r.owner,r.grantee,r.doc_num,r.prop_address,r.mail_address,r.legal,r.doc_type].join(' ').toLowerCase();if(!hay.includes(q))return false;}
+    return true;
+  });
+  sortFiltered();page=1;renderTable();
+}
+function sortFiltered(){
+  filtered.sort((a,b)=>{
+    let va=a[sortCol],vb=b[sortCol];
+    if(va==null)va=sortCol==='amount'?-1:'';
+    if(vb==null)vb=sortCol==='amount'?-1:'';
+    if(typeof va==='number')return sortDir*(va-vb);
+    return sortDir*String(va).localeCompare(String(vb));
+  });
+}
+function renderTable(){
+  const tbody=document.getElementById('leads-body');
+  const noData=document.getElementById('no-data');
+  const table=document.getElementById('leads-table');
+  if(!filtered.length){table.style.display='none';noData.style.display='block';document.getElementById('pagination').innerHTML='';return;}
+  noData.style.display='none';table.style.display='table';
+  const start=(page-1)*PAGE_SIZE;
+  const slice=filtered.slice(start,start+PAGE_SIZE);
+  tbody.innerHTML=slice.map(r=>`
+    <tr class="${r._demo?'demo-row':''}" onclick="openModal(${ALL_RECORDS.indexOf(r)})" style="cursor:pointer">
+      <td><div class="score-badge ${scoreCls(r.score)}">${r.score}</div></td>
+      <td><span class="type-badge cat-${r.cat}">${r.doc_type}</span></td>
+      <td style="white-space:nowrap;font-family:var(--font-mono)">${r.filed||'—'}</td>
+      <td style="max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${esc(r.owner)}">${esc(r.owner)||'—'}</td>
+      <td class="amount-cell">${r.amount!=null?'$'+r.amount.toLocaleString():'—'}</td>
+      <td><div class="flags-cell">${(r.flags||[]).map(f=>`<span class="flag-chip">${f}</span>`).join('')}</div></td>
+      <td class="addr-cell">
+        ${r.prop_address?`<div class="addr-prop">${esc(r.prop_address)}, ${r.prop_city||''} ${r.prop_zip||''}</div>`:''}
+        ${r.mail_address&&r.mail_address!==r.prop_address?`<div class="addr-mail">✉ ${esc(r.mail_address)}, ${r.mail_city||''}</div>`:''}
+        ${!r.prop_address&&!r.mail_address?'<span style="color:var(--muted)">No address</span>':''}
+      </td>
+      <td style="font-family:var(--font-mono);font-size:.72rem">${esc(r.doc_num)||'—'}</td>
+      <td onclick="event.stopPropagation()">${r.clerk_url?`<a class="link-btn" href="${esc(r.clerk_url)}" target="_blank" rel="noopener">View ↗</a>`:'—'}</td>
+    </tr>
+  `).join('');
+  renderPagination();
+}
+function scoreCls(s){if(s>=70)return'score-hot';if(s>=45)return'score-warm';return'score-cold';}
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function renderPagination(){
+  const total=Math.ceil(filtered.length/PAGE_SIZE);
+  if(total<=1){document.getElementById('pagination').innerHTML='';return;}
+  let html=`<span>${filtered.length} records · Page ${page} of ${total}</span>`;
+  html+=`<button class="page-btn" onclick="goPage(1)" ${page===1?'disabled':''}>«</button>`;
+  html+=`<button class="page-btn" onclick="goPage(${page-1})" ${page===1?'disabled':''}>‹</button>`;
+  const start=Math.max(1,page-2),end=Math.min(total,page+2);
+  for(let i=start;i<=end;i++)html+=`<button class="page-btn ${i===page?'active':''}" onclick="goPage(${i})">${i}</button>`;
+  html+=`<button class="page-btn" onclick="goPage(${page+1})" ${page===total?'disabled':''}>›</button>`;
+  html+=`<button class="page-btn" onclick="goPage(${total})" ${page===total?'disabled':''}>»</button>`;
+  document.getElementById('pagination').innerHTML=html;
+}
+function goPage(n){page=n;renderTable();window.scrollTo(0,0);}
+document.querySelectorAll('thead th[data-col]').forEach(th=>{
+  th.addEventListener('click',()=>{
+    const col=th.dataset.col;
+    if(sortCol===col)sortDir*=-1;else{sortCol=col;sortDir=-1;}
+    document.querySelectorAll('thead th').forEach(t=>t.classList.remove('sorted'));
+    th.classList.add('sorted');
+    th.querySelector('.sort-icon').textContent=sortDir===-1?'↓':'↑';
+    sortFiltered();page=1;renderTable();
+  });
+});
+function openModal(idx){
+  const r=ALL_RECORDS[idx];if(!r)return;
+  document.getElementById('modal-title').textContent=r.cat_label+' — '+(r.owner||'Unknown Owner');
+  document.getElementById('modal-subtitle').textContent=r.doc_type+' · '+(r.filed||'?')+' · Doc #'+(r.doc_num||'?');
+  const f=(label,val,mono=false)=>`<div class="modal-field"><label>${label}</label><div class="val ${mono?'mono':''}">${val||'<span style="color:var(--muted)">—</span>'}</div></div>`;
+  document.getElementById('modal-body').innerHTML=`
+    <div><div class="section-title">Document Info</div><div class="modal-grid">
+      ${f('Document Number',esc(r.doc_num),true)}
+      ${f('Document Type',`<span class="type-badge cat-${r.cat}">${r.doc_type}</span> ${r.cat_label}`)}
+      ${f('Filed Date',r.filed)}
+      ${f('Amount',r.amount!=null?'$'+r.amount.toLocaleString(undefined,{minimumFractionDigits:2}):null,true)}
+      ${f('Grantor / Owner',esc(r.owner))}
+      ${f('Grantee',esc(r.grantee))}
+    </div></div>
+    <div><div class="section-title">Legal Description</div><div style="font-size:.82rem;line-height:1.6">${esc(r.legal)||'<span style="color:var(--muted)">Not available</span>'}</div></div>
+    <div><div class="section-title">Property Address</div><div class="modal-grid">
+      ${f('Street',esc(r.prop_address))}
+      ${f('City / State / Zip',[r.prop_city,r.prop_state,r.prop_zip].filter(Boolean).join(', '))}
+    </div></div>
+    <div><div class="section-title">Mailing Address</div><div class="modal-grid">
+      ${f('Street',esc(r.mail_address))}
+      ${f('City / State / Zip',[r.mail_city,r.mail_state,r.mail_zip].filter(Boolean).join(', '))}
+    </div></div>
+    <div><div class="section-title">Seller Score &amp; Flags</div>
+      <div style="display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap">
+        <div class="score-badge ${scoreCls(r.score)}" style="width:52px;height:52px;font-size:1.2rem">${r.score}</div>
+        <div class="flags-cell" style="flex:1">${(r.flags||[]).map(f2=>`<span class="flag-chip">${f2}</span>`).join('')||'<span style="color:var(--muted);font-size:.8rem">No flags</span>'}</div>
+      </div>
+    </div>
+    <div>${r.clerk_url?`<a class="btn btn-accent" href="${esc(r.clerk_url)}" target="_blank" rel="noopener" style="display:inline-block;text-decoration:none">View County Clerk Record ↗</a>`:'<span style="color:var(--muted);font-size:.82rem">No clerk link available</span>'}</div>`;
+  document.getElementById('modal-backdrop').classList.add('open');
+}
+function closeModal(e){if(e&&e.target!==document.getElementById('modal-backdrop'))return;document.getElementById('modal-backdrop').classList.remove('open');}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+function exportCSV(){
+  const cols=['First Name','Last Name','Mailing Address','Mailing City','Mailing State','Mailing Zip','Property Address','Property City','Property State','Property Zip','Lead Type','Document Type','Date Filed','Document Number','Amount/Debt Owed','Seller Score','Motivated Seller Flags','Source','Public Records URL'];
+  const rows=[cols];
+  for(const r of filtered){
+    const parts=(r.owner||'').split(' ');
+    rows.push([parts[0]||'',parts.slice(1).join(' '),r.mail_address||'',r.mail_city||'',r.mail_state||'TX',r.mail_zip||'',r.prop_address||'',r.prop_city||'',r.prop_state||'TX',r.prop_zip||'',r.cat_label||'',r.doc_type||'',r.filed||'',r.doc_num||'',r.amount!=null?r.amount:'',r.score||0,(r.flags||[]).join('|'),'Grayson County TX',r.clerk_url||'']);
+  }
+  const csv=rows.map(row=>row.map(v=>`"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
+  const blob=new Blob([csv],{type:'text/csv'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+  a.download=`grayson_county_leads_${new Date().toISOString().slice(0,10)}.csv`;a.click();
+}
+function formatDate(iso){try{return new Date(iso).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'});}catch{return iso;}}
+['search','filter-type','filter-cat'].forEach(id=>document.getElementById(id).addEventListener('input',applyFilters));
+document.getElementById('score-filter').addEventListener('input',function(){document.getElementById('score-val').textContent=this.value;applyFilters();});
+document.getElementById('date-from').addEventListener('input',applyFilters);
+document.getElementById('date-to').addEventListener('input',applyFilters);
+loadData();
+</script>
+</body>
+</html>
