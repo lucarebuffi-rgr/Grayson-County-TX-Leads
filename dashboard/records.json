@@ -1,91 +1,13 @@
 {
-  "fetched_at": "2026-04-18T09:42:51.615584Z",
+  "fetched_at": "2026-04-19T09:43:01.777781Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "04/15/2026",
-    "to": "04/18/2026"
+    "from": "04/16/2026",
+    "to": "04/19/2026"
   },
-  "total": 5,
-  "with_address": 5,
+  "total": 2,
+  "with_address": 2,
   "records": [
-    {
-      "doc_num": "2026-9148",
-      "doc_type": "AJ",
-      "filed": "2026-04-15",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "MENDOZA DAVID",
-      "grantee": "ELLIOTT ELECTRIC SUPPLY INC",
-      "amount": null,
-      "legal": "$83122.87",
-      "prop_address": "N MAIN ST",
-      "prop_city": "TIOGA",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "906 E MAIN ST",
-      "mail_city": "TIOGA",
-      "mail_state": "TX",
-      "mail_zip": "76271",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260415,20260418&searchType=advancedSearch",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-9061",
-      "doc_type": "ML",
-      "filed": "2026-04-15",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "LATHAM DUSTIN SHAY",
-      "grantee": "TRIPLE R CONSTRUCTION & FRAMING LLC",
-      "amount": null,
-      "legal": "Subdivision - Name: PRESTON BEND POINT SUBD REPLAT Lot: 22",
-      "prop_address": "LOUISIANA AVE",
-      "prop_city": "POTTSBORO",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "24 LOUISIANA AVE",
-      "mail_city": "POTTSBORO",
-      "mail_state": "TX",
-      "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260415,20260418&searchType=advancedSearch",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-9099",
-      "doc_type": "ML",
-      "filed": "2026-04-15",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "TILLETT NATHAN ALLEN",
-      "grantee": "TILLETT CUSTOM HOMES LLC",
-      "amount": null,
-      "legal": "Survey - Name: A CLARK SUR Survey: 206 Acres: 1.2928",
-      "prop_address": "GEORGE RD",
-      "prop_city": "HOWE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "559 GEORGE RD",
-      "mail_city": "HOWE",
-      "mail_state": "TX",
-      "mail_zip": "75459",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260415,20260418&searchType=advancedSearch",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
     {
       "doc_num": "2026-9290",
       "doc_type": "AJ",
@@ -104,7 +26,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260415,20260418&searchType=advancedSearch",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260416,20260419&searchType=advancedSearch",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -130,7 +52,7 @@
       "mail_city": "MCKINNEY",
       "mail_state": "TX",
       "mail_zip": "75072",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260415,20260418&searchType=advancedSearch",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260416,20260419&searchType=advancedSearch",
       "flags": [
         "Judgment lien",
         "New this week"
