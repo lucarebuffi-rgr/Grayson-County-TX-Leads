@@ -318,12 +318,14 @@ async def scrape_doc_type(browser, doc_code: str, cat: str, cat_label: str,
 
     while True:
         url = (f"{BASE_URL}/results"
-               f"?department=RP"
-               f"&_docTypes={doc_code}"
-               f"&recordedDateRange={dt_from},{dt_to}"
-               f"&searchType=advancedSearch"
-               f"&limit={PAGE_LIMIT}"
-               f"&offset={offset}")
+       f"?department=RP"
+       f"&_docTypes={doc_code}"
+       f"&recordedDateRange={dt_from},{dt_to}"
+       f"&searchType=quickSearch"
+       f"&keywordSearch=false"
+       f"&searchOcrText=false"
+       f"&limit={PAGE_LIMIT}"
+       f"&offset={offset}")
 
         log.info(f"  {doc_code} offset={offset} …")
 
@@ -334,7 +336,7 @@ async def scrape_doc_type(browser, doc_code: str, cat: str, cat_label: str,
         page = await context.new_page()
 
         try:
-            await page.goto(url, timeout=60_000)
+            await page.goto(url, timeout=120_000)
             js_result = await page.evaluate(JS_WAIT_FOR_ROWS)
 
             log.info(f"    Got {len(js_result)} rows")
