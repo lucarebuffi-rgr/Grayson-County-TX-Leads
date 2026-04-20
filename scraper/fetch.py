@@ -34,7 +34,7 @@ log = logging.getLogger(__name__)
 
 BASE_URL      = "https://grayson.tx.publicsearch.us"
 CAD_ZIP_URL   = "https://maps.graysonappraisal.org/export/Preliminary_Export.zip"
-LOOKBACK_DAYS = 4
+LOOKBACK_DAYS = 30
 PAGE_LIMIT    = 250
 REQUEST_TIMEOUT = 300
 
@@ -90,6 +90,8 @@ ENTITY_FILTERS = (
 
 def fw(line: bytes, field: str) -> str:
     s, e = FW[field]
+    if len(line) < e:
+        return ""
     return line[s-1:e].decode("latin-1").strip()
 
 
@@ -180,6 +182,8 @@ def build_parcel_lookup() -> dict:
             with zf.open(info_file) as f:
                 for raw_line in f:
                     line = raw_line.rstrip(b"\r\n")
+
+                    # Need at least up to situs_num field
                     if len(line) < 4474:
                         continue
 
@@ -193,12 +197,12 @@ def build_parcel_lookup() -> dict:
                         continue
 
                     # Property address
+                    num    = fw(line, "situs_num")
                     pfx    = fw(line, "situs_street_prefx")
                     street = fw(line, "situs_street")
                     sfx    = fw(line, "situs_street_suffix")
-                    num  = fw(line, "situs_num")
-unit = fw(line, "situs_unit")
-prop_address = " ".join(filter(None, [num, pfx, street, sfx, unit])).strip()
+                    unit   = fw(line, "situs_unit")
+                    prop_address = " ".join(filter(None, [num, pfx, street, sfx, unit])).strip()
                     prop_city    = fw(line, "situs_city") or "Sherman"
                     prop_zip     = fw(line, "situs_zip")
 
@@ -271,7 +275,8 @@ def parse_text_block(text: str, doc_code: str, cat: str, cat_label: str,
             return None
 
         search_url = (f"{BASE_URL}/results?department=RP&_docTypes={doc_code}"
-                      f"&recordedDateRange={dt_from},{dt_to}&searchType=advancedSearch")
+                      f"&recordedDateRange={dt_from},{dt_to}&searchType=quickSearch"
+                      f"&keywordSearch=false&searchOcrText=false")
 
         return {
             "doc_num":   doc_num,
@@ -294,7 +299,7 @@ def parse_text_block(text: str, doc_code: str, cat: str, cat_label: str,
 
 JS_WAIT_FOR_ROWS = """
     async () => {
-        for (let i = 0; i < 60; i++) {
+        for (let i = 0; i < 120; i++) {
             const rows = document.querySelectorAll('tbody tr');
             if (rows.length > 0) {
                 const texts = [];
@@ -322,14 +327,14 @@ async def scrape_doc_type(browser, doc_code: str, cat: str, cat_label: str,
 
     while True:
         url = (f"{BASE_URL}/results"
-       f"?department=RP"
-       f"&_docTypes={doc_code}"
-       f"&recordedDateRange={dt_from},{dt_to}"
-       f"&searchType=quickSearch"
-       f"&keywordSearch=false"
-       f"&searchOcrText=false"
-       f"&limit={PAGE_LIMIT}"
-       f"&offset={offset}")
+               f"?department=RP"
+               f"&_docTypes={doc_code}"
+               f"&recordedDateRange={dt_from},{dt_to}"
+               f"&searchType=quickSearch"
+               f"&keywordSearch=false"
+               f"&searchOcrText=false"
+               f"&limit={PAGE_LIMIT}"
+               f"&offset={offset}")
 
         log.info(f"  {doc_code} offset={offset} …")
 
@@ -416,7 +421,7 @@ def generate_demo_records(date_from: str, date_to: str) -> list:
             "grantee":   grantee,
             "legal":     "DEMO RECORD",
             "amount":    float(amt) if amt else None,
-            "clerk_url": f"{BASE_URL}/results?department=RP&_docTypes={code}&searchType=advancedSearch",
+            "clerk_url": f"{BASE_URL}/results?department=RP&_docTypes={code}&searchType=quickSearch",
             "_demo":     True,
         })
     return recs
@@ -574,6 +579,16 @@ def build_output(raw_records: list, date_from: str, date_to: str) -> dict:
             })
         except Exception:
             log.warning(f"Skipping: {traceback.format_exc()}")
+
+    # Deduplicate by doc number
+    seen_docs = set()
+    deduped = []
+    for r in out_records:
+        key = r.get("doc_num", "") or f"{r['owner']}_{r['filed']}_{r['doc_type']}"
+        if key not in seen_docs:
+            seen_docs.add(key)
+            deduped.append(r)
+    out_records = deduped
 
     out_records = [r for r in out_records if r.get("prop_address") or r.get("mail_address")]
     out_records = [r for r in out_records if not is_entity(r.get("owner", ""))]
