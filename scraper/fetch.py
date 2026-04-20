@@ -40,18 +40,20 @@ REQUEST_TIMEOUT = 300
 
 # Fixed-width field positions (1-based, inclusive) from APPRAISAL_INFO.TXT
 FW = {
-    "prop_type_cd":      (13,  17),
-    "py_owner_name":     (609, 678),
-    "py_addr_line1":     (694, 753),
-    "py_addr_line2":     (754, 813),
-    "py_addr_city":      (874, 923),
-    "py_addr_state":     (924, 973),
-    "py_addr_zip":       (979, 983),
-    "situs_street_prefx":(1040,1049),
-    "situs_street":      (1050,1099),
-    "situs_street_suffix":(1100,1109),
-    "situs_city":        (1110,1139),
-    "situs_zip":         (1140,1149),
+    "prop_type_cd":       (13,   17),
+    "py_owner_name":      (609,  678),
+    "py_addr_line1":      (694,  753),
+    "py_addr_line2":      (754,  813),
+    "py_addr_city":       (874,  923),
+    "py_addr_state":      (924,  973),
+    "py_addr_zip":        (979,  983),
+    "situs_street_prefx": (1040, 1049),
+    "situs_street":       (1050, 1099),
+    "situs_street_suffix":(1100, 1109),
+    "situs_city":         (1110, 1139),
+    "situs_zip":          (1140, 1149),
+    "situs_num":          (4460, 4474),
+    "situs_unit":         (4475, 4479),
 }
 
 DOC_TYPES = {
@@ -178,7 +180,7 @@ def build_parcel_lookup() -> dict:
             with zf.open(info_file) as f:
                 for raw_line in f:
                     line = raw_line.rstrip(b"\r\n")
-                    if len(line) < 1150:
+                    if len(line) < 4474:
                         continue
 
                     # Only real property
@@ -194,7 +196,9 @@ def build_parcel_lookup() -> dict:
                     pfx    = fw(line, "situs_street_prefx")
                     street = fw(line, "situs_street")
                     sfx    = fw(line, "situs_street_suffix")
-                    prop_address = " ".join(filter(None, [pfx, street, sfx])).strip()
+                    num  = fw(line, "situs_num")
+unit = fw(line, "situs_unit")
+prop_address = " ".join(filter(None, [num, pfx, street, sfx, unit])).strip()
                     prop_city    = fw(line, "situs_city") or "Sherman"
                     prop_zip     = fw(line, "situs_zip")
 
