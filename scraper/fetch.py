@@ -34,7 +34,7 @@ log = logging.getLogger(__name__)
 
 BASE_URL      = "https://grayson.tx.publicsearch.us"
 CAD_ZIP_URL   = "https://maps.graysonappraisal.org/export/Preliminary_Export.zip"
-LOOKBACK_DAYS = 30
+LOOKBACK_DAYS = 7
 PAGE_LIMIT    = 250
 REQUEST_TIMEOUT = 300
 
