@@ -100,6 +100,7 @@ td{padding:.6rem .75rem;vertical-align:top;max-width:220px;}
 .modal-field .val{font-size:.9rem;color:var(--text);word-break:break-word;}
 .modal-field .val.mono{font-family:var(--font-mono);}
 .section-title{font-family:var(--font-mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:.4rem;margin-bottom:.6rem;}
+.notes-bar{background:rgba(59,130,246,.06);border-bottom:1px solid rgba(59,130,246,.15);padding:.4rem 2rem;display:flex;align-items:center;gap:.75rem;}
 .demo-banner{background:rgba(234,179,8,.08);border-bottom:1px solid rgba(234,179,8,.2);padding:.5rem 2rem;font-size:.78rem;color:var(--yellow);display:none;}
 .demo-banner.show{display:block;}
 .loading{display:flex;align-items:center;justify-content:center;padding:5rem;gap:.75rem;color:var(--muted);font-family:var(--font-mono);font-size:.85rem;}
@@ -122,6 +123,10 @@ td{padding:.6rem .75rem;vertical-align:top;max-width:220px;}
     <span class="pill" id="status-pill">—</span>
   </div>
 </header>
+<div class="notes-bar">
+  <span style="font-size:.75rem;color:var(--muted);font-family:var(--font-mono);white-space:nowrap">📝 Notes:</span>
+  <textarea id="notes-input" placeholder="Type your notes here… (auto-saved in browser)" style="flex:1;background:transparent;border:none;outline:none;color:var(--text);font-family:var(--font-mono);font-size:.78rem;resize:none;height:38px;line-height:1.5;padding:0 .5rem;"></textarea>
+</div>
 <div class="demo-banner" id="demo-banner">⚠ Demo data shown. Once the GitHub Action runs, live records will replace this.</div>
 <div class="stats-row">
   <div class="stat"><div class="stat-label">Total Leads</div><div class="stat-value accent" id="s-total">—</div></div>
@@ -399,6 +404,10 @@ function formatDate(iso){try{return new Date(iso).toLocaleString('en-US',{month:
 document.getElementById('score-filter').addEventListener('input',function(){document.getElementById('score-val').textContent=this.value;applyFilters();});
 document.getElementById('date-from').addEventListener('input',applyFilters);
 document.getElementById('date-to').addEventListener('input',applyFilters);
+const NOTES_KEY='grayson_notes';
+const notesEl=document.getElementById('notes-input');
+notesEl.value=localStorage.getItem(NOTES_KEY)||'';
+notesEl.addEventListener('input',function(){localStorage.setItem(NOTES_KEY,this.value);});
 loadData();
 </script>
 </body>
