@@ -1,32 +1,84 @@
 {
-  "fetched_at": "2026-04-24T11:04:55.347139Z",
+  "fetched_at": "2026-04-25T09:46:02.701469Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "04/17/2026",
-    "to": "04/24/2026"
+    "from": "04/18/2026",
+    "to": "04/25/2026"
   },
-  "total": 7,
-  "with_address": 7,
+  "total": 9,
+  "with_address": 9,
   "records": [
     {
-      "doc_num": "2026-9450",
+      "doc_num": "2026-9561",
+      "doc_type": "AH",
+      "filed": "2026-04-20",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "ADAMS JACQUELINE M",
+      "grantee": "ADAMS KENNETH DOYLE DECEASED",
+      "amount": null,
+      "legal": "Subdivision - Name: DOS LAGOS SUBD REPLAT Lot: 53",
+      "prop_address": "5100 CAMINO DOS LAGOS",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "5100 CAMINO DOS LAGOS",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-9706",
+      "doc_type": "AH",
+      "filed": "2026-04-21",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "MERCER NITA J",
+      "grantee": "MERCER ROGER DALE DECEASED",
+      "amount": null,
+      "legal": "Survey - Name: J MORRIS SUR Survey: 889 Acres: 15.0",
+      "prop_address": "4315 HAGERMAN RD",
+      "prop_city": "POTTSBORO",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "4315 HAGERMAN RD",
+      "mail_city": "POTTSBORO",
+      "mail_state": "TX",
+      "mail_zip": "75076",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-9998",
       "doc_type": "PB",
-      "filed": "2026-04-17",
+      "filed": "2026-04-23",
       "cat": "probate",
       "cat_label": "Probate",
-      "owner": "WALKER GRANVILLE SR DECEASED ESTATE",
+      "owner": "MATTHEWS MARGIE LOU DECEASED ESTATE",
       "grantee": "PUBLIC",
       "amount": null,
       "legal": "N/A",
-      "prop_address": "1309 W MORTON ST",
+      "prop_address": "1808 E FM 120",
       "prop_city": "DENISON",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "1309 W MORTON ST",
+      "mail_address": "1808 E FM 120",
       "mail_city": "DENISON",
       "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75021",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -52,7 +104,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -78,7 +130,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -104,7 +156,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -130,7 +182,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -156,7 +208,7 @@
       "mail_city": "GORDONVILLE",
       "mail_state": "TX",
       "mail_zip": "76245",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -182,7 +234,7 @@
       "mail_city": "GUNTER",
       "mail_state": "TX",
       "mail_zip": "75058",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260417,20260424&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260418,20260425&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
