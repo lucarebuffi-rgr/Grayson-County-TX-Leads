@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-05-14T09:36:54.075144Z",
+  "fetched_at": "2026-05-15T09:48:26.053935Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "05/07/2026",
-    "to": "05/14/2026"
+    "from": "05/08/2026",
+    "to": "05/15/2026"
   },
-  "total": 10,
-  "with_address": 10,
+  "total": 12,
+  "with_address": 12,
   "records": [
     {
       "doc_num": "2026-12010",
@@ -26,7 +26,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -35,29 +35,29 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-11548",
-      "doc_type": "ML",
-      "filed": "2026-05-07",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "FOX JOHN MC KENNA",
-      "grantee": "IMPERIAL FOUNDATION REPAIR LLC",
+      "doc_num": "2026-12062",
+      "doc_type": "PB",
+      "filed": "2026-05-13",
+      "cat": "probate",
+      "cat_label": "Probate",
+      "owner": "NEJMANOWSKI DELPHE DELBERT DECEASED ESTATE",
+      "grantee": "PUBLIC",
       "amount": null,
-      "legal": "Subdivision - Name: WESTWOOD 3 ADDN Lot: 3 Block: 8",
-      "prop_address": "8 VANCOUVER DR",
+      "legal": "N/A",
+      "prop_address": "S EAST ST",
       "prop_city": "SHERMAN",
       "prop_state": "TX",
-      "prop_zip": "75092",
-      "mail_address": "8 VANCOUVER PL",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "prop_zip": "",
+      "mail_address": "PALACE MEAT PACKERS PO BOX 556",
+      "mail_city": "CARLINVILLE",
+      "mail_state": "IL",
+      "mail_zip": "62626",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Mechanic lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -78,7 +78,7 @@
       "mail_city": "PROSPER",
       "mail_state": "TX",
       "mail_zip": "75078",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -104,7 +104,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -130,7 +130,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -156,7 +156,7 @@
       "mail_city": "BELLS",
       "mail_state": "TX",
       "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -182,7 +182,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -208,7 +208,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -234,7 +234,7 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -260,9 +260,61 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260507,20260514&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-12061",
+      "doc_type": "AJ",
+      "filed": "2026-05-13",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "HUSSAIN FASIH",
+      "grantee": "CAPITAL ONE NA",
+      "amount": null,
+      "legal": "$26855.95",
+      "prop_address": "2631 W JOHNSON ST",
+      "prop_city": "DENISON",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "2631 W JOHNSON ST",
+      "mail_city": "DENISON",
+      "mail_state": "TX",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-12076",
+      "doc_type": "ML",
+      "filed": "2026-05-13",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "NAIRN BRANDON",
+      "grantee": "FROST BANK",
+      "amount": null,
+      "legal": "Subdivision - Name: THE MEADOWS Lot: 3 Block: C",
+      "prop_address": "145 KNOLL TR",
+      "prop_city": "GUNTER",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "145 KNOLL TRL",
+      "mail_city": "GUNTER",
+      "mail_state": "TX",
+      "mail_zip": "75058",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260508,20260515&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
         "New this week"
       ],
       "score": 60,
