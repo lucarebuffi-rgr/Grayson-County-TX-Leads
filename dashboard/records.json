@@ -1,117 +1,13 @@
 {
-  "fetched_at": "2026-06-16T12:12:50.514614Z",
+  "fetched_at": "2026-06-17T11:37:27.443066Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "06/09/2026",
-    "to": "06/16/2026"
+    "from": "06/10/2026",
+    "to": "06/17/2026"
   },
-  "total": 12,
-  "with_address": 12,
+  "total": 8,
+  "with_address": 8,
   "records": [
-    {
-      "doc_num": "2026-14460",
-      "doc_type": "AH",
-      "filed": "2026-06-09",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "COLLINS CINDY RENEE",
-      "grantee": "CUNNINGHAM CECIL MORRIS DECEASED",
-      "amount": null,
-      "legal": "Survey - Name: WC WILSON SUR Survey: 1330 Acres: 42.881",
-      "prop_address": "514 N JONES ST",
-      "prop_city": "HOWE",
-      "prop_state": "TX",
-      "prop_zip": "75459",
-      "mail_address": "PO BOX 1455",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-14458",
-      "doc_type": "AH",
-      "filed": "2026-06-09",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "COLLINS CINDY RENEE",
-      "grantee": "BLYTHE MILDRED LOUISE DECEASED",
-      "amount": null,
-      "legal": "Survey - Name: WC WILSON SUR Survey: 1330 Acres: 42.881",
-      "prop_address": "514 N JONES ST",
-      "prop_city": "HOWE",
-      "prop_state": "TX",
-      "prop_zip": "75459",
-      "mail_address": "PO BOX 1455",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-14461",
-      "doc_type": "AH",
-      "filed": "2026-06-09",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "COLLINS CINDY RENEE",
-      "grantee": "CUNNINGHAM PATRICIA MARIE DECEASED",
-      "amount": null,
-      "legal": "Survey - Name: WC WILSON SUR Survey: 1330 Acres: 42.881",
-      "prop_address": "514 N JONES ST",
-      "prop_city": "HOWE",
-      "prop_state": "TX",
-      "prop_zip": "75459",
-      "mail_address": "PO BOX 1455",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-14459",
-      "doc_type": "AH",
-      "filed": "2026-06-09",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "COLLINS CINDY RENEE",
-      "grantee": "HAHN CYNTHIA ANN BLYTHE DECEASED",
-      "amount": null,
-      "legal": "Survey - Name: WC WILSON SUR Survey: 1330 Acres: 42.881",
-      "prop_address": "514 N JONES ST",
-      "prop_city": "HOWE",
-      "prop_state": "TX",
-      "prop_zip": "75459",
-      "mail_address": "PO BOX 1455",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-14778",
       "doc_type": "PB",
@@ -122,15 +18,15 @@
       "grantee": "PUBLIC",
       "amount": null,
       "legal": "N/A",
-      "prop_address": "526 LAVENDER DR",
-      "prop_city": "VAN ALSTYNE",
+      "prop_address": "626 BURKS RD",
+      "prop_city": "WHITEWRIGHT",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "526 LAVENDER DRIVE",
-      "mail_city": "VAN ALSTYNE",
+      "mail_address": "626 BURKS RD",
+      "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75491",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +52,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -182,7 +78,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -208,7 +104,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -234,7 +130,7 @@
       "mail_city": "GUNTER",
       "mail_state": "TX",
       "mail_zip": "75058",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -260,7 +156,7 @@
       "mail_city": "BELLS",
       "mail_state": "TX",
       "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -286,7 +182,7 @@
       "mail_city": "TOM BEAN",
       "mail_state": "TX",
       "mail_zip": "75489",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -312,7 +208,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260609,20260616&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260610,20260617&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
