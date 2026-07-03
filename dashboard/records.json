@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-07-02T10:02:40.629860Z",
+  "fetched_at": "2026-07-03T10:01:28.758283Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "06/25/2026",
-    "to": "07/02/2026"
+    "from": "06/26/2026",
+    "to": "07/03/2026"
   },
-  "total": 15,
-  "with_address": 15,
+  "total": 10,
+  "with_address": 10,
   "records": [
-    {
-      "doc_num": "2026-16047",
-      "doc_type": "AH",
-      "filed": "2026-06-25",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "BASS MORRISANN",
-      "grantee": "BASS OTIS LEE DECEASED",
-      "amount": null,
-      "legal": "Survey - Acres: .408",
-      "prop_address": "429 S BROADWAY ST",
-      "prop_city": "BELLS",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "429 S BROADWAY ST",
-      "mail_city": "BELLS",
-      "mail_state": "TX",
-      "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-16324",
       "doc_type": "PB",
@@ -52,7 +26,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +52,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +78,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -113,133 +87,29 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-16100",
-      "doc_type": "AJ",
-      "filed": "2026-06-25",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "ROBERTSON COREY",
-      "grantee": "MIDLAND CREDIT MANAGEMENT INC",
+      "doc_num": "2026-16689",
+      "doc_type": "AH",
+      "filed": "2026-07-01",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "REYNOLDS SPENCER ELON",
+      "grantee": "REYNOLDS EDGAR LEON DECEASED",
       "amount": null,
-      "legal": "$1532.27",
-      "prop_address": "1278 PRESTON MEADOWS RD",
+      "legal": "N/A",
+      "prop_address": "1100 IDLEWILD DR",
       "prop_city": "SHERMAN",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "1278 PRESTON MEADOWS RD",
-      "mail_city": "SHERMAN",
+      "mail_address": "CO TIMOTHY JAY REYNODS 701 SHIRLEEN DR",
+      "mail_city": "SEABROOK",
       "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "77586",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Judgment lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16039",
-      "doc_type": "AJ",
-      "filed": "2026-06-25",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "GARCIA JOSE",
-      "grantee": "CITIBANK NA",
-      "amount": null,
-      "legal": "$6531.88",
-      "prop_address": "2377 OLD SANDBORN RANCH RD",
-      "prop_city": "WHITESBORO",
-      "prop_state": "TX",
-      "prop_zip": "76273",
-      "mail_address": "5204 NANDINA DR",
-      "mail_city": "HALTOM CITY",
-      "mail_state": "TX",
-      "mail_zip": "76117",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16018",
-      "doc_type": "ML",
-      "filed": "2026-06-25",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "SCOGGINS DEBORAH K",
-      "grantee": "BRC CUSTOM BUILDERS",
-      "amount": null,
-      "legal": "Subdivision - Name: RODGERS ROAD ESTATES Lot: 6 Block: A",
-      "prop_address": "475 RODGERS RD",
-      "prop_city": "SADLER",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "301 E FAIRLANE DR",
-      "mail_city": "PILOT POINT",
-      "mail_state": "TX",
-      "mail_zip": "76258",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16083",
-      "doc_type": "HL",
-      "filed": "2026-06-25",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "FULLER TAMARA",
-      "grantee": "TEXOMA MEDICAL CENTER",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "1510 W ACHESON ST",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1510 W ACHESON ST",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16081",
-      "doc_type": "HL",
-      "filed": "2026-06-25",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "FULLER THOMAS",
-      "grantee": "TEXOMA MEDICAL CENTER",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "1510 W ACHESON ST",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1510 W ACHESON ST",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -260,7 +130,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -286,7 +156,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -312,35 +182,9 @@
       "mail_city": "ALLEN",
       "mail_state": "TX",
       "mail_zip": "75013",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16362",
-      "doc_type": "HL",
-      "filed": "2026-06-29",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "DAVIS JESSIE",
-      "grantee": "TEXOMA MEDICAL CENTER",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "32 MELODY CIR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "32 MELODY CIRCLE",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
         "New this week"
       ],
       "score": 60,
@@ -364,7 +208,33 @@
       "mail_city": "PILOT POINT",
       "mail_state": "TX",
       "mail_zip": "76258",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Hospital lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-16362",
+      "doc_type": "HL",
+      "filed": "2026-06-29",
+      "cat": "lien",
+      "cat_label": "Hospital Lien",
+      "owner": "DAVIS JESSIE",
+      "grantee": "TEXOMA MEDICAL CENTER",
+      "amount": null,
+      "legal": "N/A",
+      "prop_address": "32 MELODY CIR",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "32 MELODY CIRCLE",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -390,7 +260,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260625,20260702&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260626,20260703&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
