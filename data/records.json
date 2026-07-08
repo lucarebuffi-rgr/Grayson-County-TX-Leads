@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-07-07T10:30:08.248572Z",
+  "fetched_at": "2026-07-08T09:32:00.482926Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "06/30/2026",
-    "to": "07/07/2026"
+    "from": "07/01/2026",
+    "to": "07/08/2026"
   },
-  "total": 7,
-  "with_address": 7,
+  "total": 5,
+  "with_address": 5,
   "records": [
-    {
-      "doc_num": "2026-16532",
-      "doc_type": "AH",
-      "filed": "2026-06-30",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "FULTON SHILREY A",
-      "grantee": "FULTON JAMES EDWARD DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: LUELLA HEIGHTS ADDN Lot: 2 Block: 3",
-      "prop_address": "247 DICKSON CR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-16689",
       "doc_type": "AH",
@@ -52,7 +26,7 @@
       "mail_city": "SEABROOK",
       "mail_state": "TX",
       "mail_zip": "77586",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260701,20260708&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +52,7 @@
       "mail_city": "ARLINGTON",
       "mail_state": "TX",
       "mail_zip": "76017",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260701,20260708&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,38 +78,12 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260701,20260708&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
       ],
       "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16482",
-      "doc_type": "ML",
-      "filed": "2026-06-30",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "TILLETT CLAYTON JAMES",
-      "grantee": "STEPHENS WENDELL",
-      "amount": null,
-      "legal": "Subdivision - Name: SPENCER SUBD Lot: 4",
-      "prop_address": "804 OIL MILL RD",
-      "prop_city": "VAN ALSTYNE",
-      "prop_state": "TX",
-      "prop_zip": "75495",
-      "mail_address": "804 OIL MILL RD",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
       "_demo": false
     },
     {
@@ -156,7 +104,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260701,20260708&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -182,7 +130,7 @@
       "mail_city": "ALLEN",
       "mail_state": "TX",
       "mail_zip": "75002",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260630,20260707&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260701,20260708&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
