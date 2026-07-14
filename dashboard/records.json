@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-07-13T10:25:14.216821Z",
+  "fetched_at": "2026-07-14T09:08:14.267644Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "07/06/2026",
-    "to": "07/13/2026"
+    "from": "07/07/2026",
+    "to": "07/14/2026"
   },
-  "total": 11,
-  "with_address": 11,
+  "total": 12,
+  "with_address": 12,
   "records": [
-    {
-      "doc_num": "2026-16938",
-      "doc_type": "PB",
-      "filed": "2026-07-06",
-      "cat": "probate",
-      "cat_label": "Probate",
-      "owner": "AYNES PATRICIA JOANN DECEASED ESTATE",
-      "grantee": "PUBLIC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "2504 EASY ST",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2504 EASY ST",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-17070",
       "doc_type": "PB",
@@ -52,7 +26,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +52,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +78,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +104,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +130,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -165,55 +139,29 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-16968",
-      "doc_type": "AJ",
-      "filed": "2026-07-06",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "RAINBOW TERRY D",
-      "grantee": "CAPITAL ONE NA",
+      "doc_num": "2026-17366",
+      "doc_type": "AH",
+      "filed": "2026-07-10",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "BEAVERSON ANTHONY A",
+      "grantee": "BEAVERSON JANICE L DECEASED",
       "amount": null,
-      "legal": "$11003.37",
-      "prop_address": "784 OLD GUNTER RD",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "75092",
-      "mail_address": "784 OLD GUNTER HWY",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-16964",
-      "doc_type": "AJ",
-      "filed": "2026-07-06",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "DENNIS WESLEY",
-      "grantee": "CITIBANK NA",
-      "amount": null,
-      "legal": "$6745.80",
-      "prop_address": "701 W JOHNSON ST",
-      "prop_city": "DENISON",
+      "legal": "Subdivision - Name: LAUREL CREEK ADDN 1 Lot: 9 Block: 2",
+      "prop_address": "200 LILA BLUE LN",
+      "prop_city": "Sherman",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "421 W MARTIN LUTHER KING ST",
-      "mail_city": "DENISON",
+      "mail_address": "200 LILA BLUE LN",
+      "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Judgment lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -234,7 +182,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -260,7 +208,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -286,9 +234,87 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260706,20260713&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-17380",
+      "doc_type": "FTL",
+      "filed": "2026-07-10",
+      "cat": "lien",
+      "cat_label": "Federal Tax Lien",
+      "owner": "STANDRIDGE CARL B III",
+      "grantee": "U S A INTERNAL REVENUE SERVICE",
+      "amount": null,
+      "legal": "$705034.56",
+      "prop_address": "134 DEER CROSSING RD",
+      "prop_city": "GUNTER",
+      "prop_state": "TX",
+      "prop_zip": "75058",
+      "mail_address": "134 DEER CROSSING RD",
+      "mail_city": "GUNTER",
+      "mail_state": "TX",
+      "mail_zip": "75058",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Tax lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-17378",
+      "doc_type": "AJ",
+      "filed": "2026-07-10",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "NICKLE SPENCER",
+      "grantee": "CITIBANK NA",
+      "amount": null,
+      "legal": "$12015.77",
+      "prop_address": "1000 LEEPER DR",
+      "prop_city": "DENISON",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "1000 LEEPER DRIVE",
+      "mail_city": "DENISON",
+      "mail_state": "TX",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-17423",
+      "doc_type": "ALN",
+      "filed": "2026-07-10",
+      "cat": "lien",
+      "cat_label": "HOA Lien",
+      "owner": "HANNAH ASTON",
+      "grantee": "HAYS CLINT",
+      "amount": null,
+      "legal": "Subdivision - Name: THOMPSON FARMS 1 Lot: 21 Block: G",
+      "prop_address": "401 SUNFLOWER CT",
+      "prop_city": "VAN ALSTYNE",
+      "prop_state": "TX",
+      "prop_zip": "75495",
+      "mail_address": "401 SUNFLOWER COURT",
+      "mail_city": "VAN ALSTYNE",
+      "mail_state": "TX",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260707,20260714&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "HOA lien",
         "New this week"
       ],
       "score": 60,
