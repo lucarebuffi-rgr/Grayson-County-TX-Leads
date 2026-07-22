@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-07-21T09:26:55.777845Z",
+  "fetched_at": "2026-07-22T09:26:53.756685Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "07/14/2026",
-    "to": "07/21/2026"
+    "from": "07/15/2026",
+    "to": "07/22/2026"
   },
-  "total": 19,
-  "with_address": 19,
+  "total": 21,
+  "with_address": 21,
   "records": [
     {
       "doc_num": "2026-17878",
@@ -26,7 +26,7 @@
       "mail_city": "PILOT POINT",
       "mail_state": "TX",
       "mail_zip": "76258",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -52,7 +52,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +78,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -87,29 +87,29 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-17656",
-      "doc_type": "ML",
-      "filed": "2026-07-14",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "SLATTERY DOUGLAS E",
-      "grantee": "INTEGRASTRUCT LLC",
+      "doc_num": "2026-18327",
+      "doc_type": "AH",
+      "filed": "2026-07-20",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "SHAW NANCY JAN",
+      "grantee": "SHAW DOUGLAS SCOTT DECEASED",
       "amount": null,
-      "legal": "Subdivision - Name: MARINER CAY ESTATES 2 Lot: 5",
-      "prop_address": "HANNA DR",
-      "prop_city": "DENISON",
+      "legal": "Survey - Name: D WILSON SUR Survey: 1336 Acres: 7.19",
+      "prop_address": "1603 HACKBERRY RD",
+      "prop_city": "VAN ALSTYNE",
       "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "RIGHTS OF SURVIVORSHIP 3215 PILGRIM DR",
-      "mail_city": "MELISSA",
+      "prop_zip": "75095",
+      "mail_address": "1603 HACKBERRY RD",
+      "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
-      "mail_zip": "75454",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Mechanic lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -130,7 +130,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -156,7 +156,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -182,7 +182,7 @@
       "mail_city": "MCKINNEY",
       "mail_state": "TX",
       "mail_zip": "75070",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -208,35 +208,9 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-17990",
-      "doc_type": "AJ",
-      "filed": "2026-07-16",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "VERDE TERRY ELIZABETH",
-      "grantee": "21ST MORTGAGE CORP",
-      "amount": null,
-      "legal": "$47718.03",
-      "prop_address": "418 RED MOORE RD",
-      "prop_city": "WHITEWRIGHT",
-      "prop_state": "TX",
-      "prop_zip": "75491",
-      "mail_address": "PO BOX 6",
-      "mail_city": "BLUE RIDGE",
-      "mail_state": "TX",
-      "mail_zip": "75424",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
         "New this week"
       ],
       "score": 60,
@@ -260,7 +234,33 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-17990",
+      "doc_type": "AJ",
+      "filed": "2026-07-16",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "VERDE TERRY ELIZABETH",
+      "grantee": "21ST MORTGAGE CORP",
+      "amount": null,
+      "legal": "$47718.03",
+      "prop_address": "418 RED MOORE RD",
+      "prop_city": "WHITEWRIGHT",
+      "prop_state": "TX",
+      "prop_zip": "75491",
+      "mail_address": "PO BOX 6",
+      "mail_city": "BLUE RIDGE",
+      "mail_state": "TX",
+      "mail_zip": "75424",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -286,7 +286,7 @@
       "mail_city": "COLLINSVILLE",
       "mail_state": "TX",
       "mail_zip": "76233",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -312,7 +312,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -338,7 +338,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -364,7 +364,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -390,7 +390,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -416,35 +416,9 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-17917",
-      "doc_type": "QCD",
-      "filed": "2026-07-16",
-      "cat": "other",
-      "cat_label": "Quit Claim Deed",
-      "owner": "MEASLES ASHLEY",
-      "grantee": "MEASLES RICKEY",
-      "amount": null,
-      "legal": "Survey - Name: R MC CARLEY SUR Acres: 1",
-      "prop_address": "5893 STATE HWY 56",
-      "prop_city": "BELLS",
-      "prop_state": "TX",
-      "prop_zip": "75414",
-      "mail_address": "5893 STATE HWY 56",
-      "mail_city": "BELLS",
-      "mail_state": "TX",
-      "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Quit claim deed",
         "New this week"
       ],
       "score": 60,
@@ -468,7 +442,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -494,9 +468,87 @@
       "mail_city": "FRISCO",
       "mail_state": "TX",
       "mail_zip": "75035",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260714,20260721&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-18251",
+      "doc_type": "AJ",
+      "filed": "2026-07-20",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "JONES CHRISTINE M",
+      "grantee": "JPMORGAN CHASE BANK NA",
+      "amount": null,
+      "legal": "$4356.44",
+      "prop_address": "126 S HICKORY AVE",
+      "prop_city": "DENISON",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "126 S HICKORY AVE",
+      "mail_city": "DENISON",
+      "mail_state": "TX",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-18214",
+      "doc_type": "ML",
+      "filed": "2026-07-20",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "SPINDLE BRODIE AARON",
+      "grantee": "UNITED BUILT HOMES LLC",
+      "amount": null,
+      "legal": "Survey - Name: WS COLSTON SUR Survey: 257 Acres: 10.0237",
+      "prop_address": "454 ROCHELL CANNON RD",
+      "prop_city": "BELLS",
+      "prop_state": "TX",
+      "prop_zip": "75414",
+      "mail_address": "454 ROCHELL CANNON RD",
+      "mail_city": "BELLS",
+      "mail_state": "TX",
+      "mail_zip": "75414",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-18235",
+      "doc_type": "DV",
+      "filed": "2026-07-20",
+      "cat": "other",
+      "cat_label": "Divorce",
+      "owner": "RIDER MELISSA A",
+      "grantee": "RIDER CHAD MICHAEL",
+      "amount": null,
+      "legal": "N/A",
+      "prop_address": "1113 MACGREGOR LN",
+      "prop_city": "GUNTER",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "2338 CUESTA LN",
+      "mail_city": "MCKINNEY",
+      "mail_state": "TX",
+      "mail_zip": "75072",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260715,20260722&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Divorce",
         "New this week"
       ],
       "score": 60,
