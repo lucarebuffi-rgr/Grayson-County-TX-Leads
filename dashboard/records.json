@@ -1,65 +1,13 @@
 {
-  "fetched_at": "2026-07-24T09:20:57.009708Z",
+  "fetched_at": "2026-07-25T09:00:09.133828Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "07/17/2026",
-    "to": "07/24/2026"
+    "from": "07/18/2026",
+    "to": "07/25/2026"
   },
   "total": 13,
   "with_address": 13,
   "records": [
-    {
-      "doc_num": "2026-18017",
-      "doc_type": "AH",
-      "filed": "2026-07-17",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "BOYD KEVIN SAMUEL",
-      "grantee": "BOYD VERTIS L DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: SOUTH SIDE ADDN Lot: 7 Block: 45",
-      "prop_address": "1201 S FAIRBANKS AVE",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-18018",
-      "doc_type": "AH",
-      "filed": "2026-07-17",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "BOYD KEVIN SAMUEL",
-      "grantee": "BOYD SAMUEL R DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: SOUTH SIDE ADDN Lot: 7 Block: 45",
-      "prop_address": "1201 S FAIRBANKS AVE",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-18327",
       "doc_type": "AH",
@@ -78,7 +26,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +52,7 @@
       "mail_city": "GUNTER",
       "mail_state": "TX",
       "mail_zip": "75058",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +78,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -139,55 +87,55 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-18040",
-      "doc_type": "AJ",
-      "filed": "2026-07-17",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "TOUTOUNCHIAN MATTHEW M",
-      "grantee": "CAPITAL ONE NA",
+      "doc_num": "2026-18611",
+      "doc_type": "AH",
+      "filed": "2026-07-23",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "SNYDER KARENNA",
+      "grantee": "SNYDER KATHRYN A DECEASED",
       "amount": null,
-      "legal": "$7625.04",
-      "prop_address": "500 E SOUTH ST",
-      "prop_city": "WHITESBORO",
+      "legal": "Subdivision - Name: FULLER S 2 ADDN Lot: 16 Block: 1",
+      "prop_address": "310 TEE TAW CIR",
+      "prop_city": "SHERMAN",
       "prop_state": "TX",
-      "prop_zip": "76273",
-      "mail_address": "500 E SOUTH ST",
-      "mail_city": "WHITESBORO",
+      "prop_zip": "",
+      "mail_address": "310 TEE TAW CIRCLE",
+      "mail_city": "SHERMAN",
       "mail_state": "TX",
-      "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Judgment lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
-      "doc_num": "2026-18146",
-      "doc_type": "ML",
-      "filed": "2026-07-17",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "SHAW CONNOR",
-      "grantee": "SCOTT POST HOMES LLC",
+      "doc_num": "2026-18600",
+      "doc_type": "AH",
+      "filed": "2026-07-23",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "HANSEN SHARON",
+      "grantee": "BAULER EDWARD ROBERT",
       "amount": null,
-      "legal": "Survey - Name: M MOORE SUR Survey: 863 Acres: 5.81",
-      "prop_address": "GARRETT RD",
-      "prop_city": "TOM BEAN",
+      "legal": "N/A",
+      "prop_address": "4194 CARTER CT",
+      "prop_city": "DENISON",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "4105 KATY CT",
-      "mail_city": "FRISCO",
+      "mail_address": "4194 CARTER CT",
+      "mail_city": "DENISON",
       "mail_state": "TX",
-      "mail_zip": "75035",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Mechanic lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -208,7 +156,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -234,7 +182,7 @@
       "mail_city": "BELLS",
       "mail_state": "TX",
       "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -260,7 +208,7 @@
       "mail_city": "MCKINNEY",
       "mail_state": "TX",
       "mail_zip": "75072",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Divorce",
         "New this week"
@@ -286,7 +234,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -312,7 +260,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -338,9 +286,61 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260717,20260724&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-18647",
+      "doc_type": "ALN",
+      "filed": "2026-07-23",
+      "cat": "lien",
+      "cat_label": "HOA Lien",
+      "owner": "WATSON BENJAMIN",
+      "grantee": "ARCHER NOW LLC",
+      "amount": null,
+      "legal": "Subdivision - Name: HERITAGE FARMS EST REPLAT Lot: 2 Block: A",
+      "prop_address": "1407 DELMAR DR",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "75091",
+      "mail_address": "1407 DEL MAR DR",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "HOA lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-18601",
+      "doc_type": "DV",
+      "filed": "2026-07-23",
+      "cat": "other",
+      "cat_label": "Divorce",
+      "owner": "FRAIDE AURELIANO",
+      "grantee": "DOMINGUEZ MARIA ANTOINETTE",
+      "amount": null,
+      "legal": "N/A",
+      "prop_address": "4443 PERRY ST",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "4443 PERRY ST",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260718,20260725&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Divorce",
         "New this week"
       ],
       "score": 60,
