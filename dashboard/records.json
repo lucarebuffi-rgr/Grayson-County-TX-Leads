@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-01T09:06:46.801406Z",
+  "fetched_at": "2026-08-02T09:11:12.483178Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "07/25/2026",
-    "to": "08/01/2026"
+    "from": "07/26/2026",
+    "to": "08/02/2026"
   },
   "total": 12,
   "with_address": 12,
@@ -26,7 +26,7 @@
       "mail_city": "WYLIE",
       "mail_state": "TX",
       "mail_zip": "75098",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=LP&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=LP&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Lis pendens",
         "New this week"
@@ -52,7 +52,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +78,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -96,15 +96,15 @@
       "grantee": "MITCHELL DORIS JEAN DECEASED",
       "amount": null,
       "legal": "Subdivision - Name: CYRENE PARK ADDN Lot: 16 Block: 6",
-      "prop_address": "2408 E FM 120",
+      "prop_address": "937 W FLORENCE ST",
       "prop_city": "DENISON",
       "prop_state": "TX",
-      "prop_zip": "75021",
-      "mail_address": "2408 E FM 120",
+      "prop_zip": "",
+      "mail_address": "941 W FLORENCE",
       "mail_city": "DENISON",
       "mail_state": "TX",
-      "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -122,15 +122,15 @@
       "grantee": "VARGAS JAVIER MONDRAGON TRUSTEE",
       "amount": null,
       "legal": "Subdivision - Name: CHAFFIN S ADDN Block: 21",
-      "prop_address": "1009 E LAMAR",
+      "prop_address": "605 S VADEN ST",
       "prop_city": "SHERMAN",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "1004 E LAMAR ST",
+      "mail_address": "",
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -148,15 +148,15 @@
       "grantee": "VARGAS JAVIER MONDRAGON",
       "amount": null,
       "legal": "Survey - Name: WA WATKINS SUR Survey: 1325 Acres: 5.715",
-      "prop_address": "1009 E LAMAR",
+      "prop_address": "605 S VADEN ST",
       "prop_city": "SHERMAN",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "1004 E LAMAR ST",
+      "mail_address": "",
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -174,15 +174,15 @@
       "grantee": "VARGAS JAVIER MONDRAGON TRUSTEE",
       "amount": null,
       "legal": "Survey - Name: WA WATKINS SUR Survey: 1325 Acres: 5.715",
-      "prop_address": "1009 E LAMAR",
+      "prop_address": "605 S VADEN ST",
       "prop_city": "SHERMAN",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "1004 E LAMAR ST",
+      "mail_address": "",
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -200,15 +200,15 @@
       "grantee": "VARGAS JAVIER MONDRAGON",
       "amount": null,
       "legal": "Subdivision - Name: CHAFFIN S ADDN Block: 21",
-      "prop_address": "1009 E LAMAR",
+      "prop_address": "605 S VADEN ST",
       "prop_city": "SHERMAN",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "1004 E LAMAR ST",
+      "mail_address": "",
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -234,7 +234,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -252,15 +252,15 @@
       "grantee": "CONSUMERS CREDIT UNION",
       "amount": null,
       "legal": "$25638.94",
-      "prop_address": "131 VALLEY VIEW CIR",
-      "prop_city": "DENISON",
+      "prop_address": "3717 FAWN MEADOW TRAIL",
+      "prop_city": "DENSION",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "131 VALLEY VIEW CIR",
-      "mail_city": "DENISON",
+      "mail_address": "2937 OVERLAND TR",
+      "mail_city": "SHERMAN",
       "mail_state": "TX",
-      "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -286,7 +286,7 @@
       "mail_city": "MCKINNEY",
       "mail_state": "TX",
       "mail_zip": "75071",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -312,7 +312,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260725,20260801&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260726,20260802&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
