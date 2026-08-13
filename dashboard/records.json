@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-08-12T08:14:47.786940Z",
+  "fetched_at": "2026-08-13T08:17:13.314295Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "08/05/2026",
-    "to": "08/12/2026"
+    "from": "08/06/2026",
+    "to": "08/13/2026"
   },
-  "total": 18,
-  "with_address": 18,
+  "total": 12,
+  "with_address": 12,
   "records": [
-    {
-      "doc_num": "2026-19930",
-      "doc_type": "AH",
-      "filed": "2026-08-05",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "BROWN DEBRA LYNN",
-      "grantee": "KEETON MARION DARST DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: WINLANS ADDN Lot: 14 Block: 5",
-      "prop_address": "1200 N THROCKMORTON",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1200 N THROCKMORTON",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-20109",
       "doc_type": "AH",
@@ -52,7 +26,7 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +52,7 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +78,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +104,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +130,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -165,185 +139,55 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-19954",
-      "doc_type": "STL",
-      "filed": "2026-08-05",
-      "cat": "lien",
-      "cat_label": "State Tax Lien",
-      "owner": "SMITH APRIL LINN",
-      "grantee": "TEXAS STATE OF",
+      "doc_num": "2026-20440",
+      "doc_type": "AH",
+      "filed": "2026-08-11",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "NEIDERT GARY W",
+      "grantee": "NEIDERT PAUL WILLIAM DECEASED",
       "amount": null,
-      "legal": "$1903.83",
-      "prop_address": "917 & 919 N BRENTS AVE",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "919 N BRENTS AVE",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Tax lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-19947",
-      "doc_type": "AJ",
-      "filed": "2026-08-05",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "WALKER SAMUEL E",
-      "grantee": "JPMORGAN CHASE BANK NA",
-      "amount": null,
-      "legal": "$13433.94",
-      "prop_address": "1425 N SHANNON ST",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1425 N SHANNON ST",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-19958",
-      "doc_type": "HL",
-      "filed": "2026-08-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "SELLARS SARAH",
-      "grantee": "HOSPITAL SOLUTIONS INC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "420 E BURRELL ST",
+      "legal": "Subdivision - Name: VINITA ADDN Lot: 3 Block: 3",
+      "prop_address": "510 W BROCK ST",
       "prop_city": "DENISON",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "420 E BURRELL ST",
-      "mail_city": "DENISON",
+      "mail_address": "3518 HARLAN DR",
+      "mail_city": "SACHSE",
       "mail_state": "TX",
-      "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75048",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Hospital lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
-      "doc_num": "2026-19962",
-      "doc_type": "HL",
-      "filed": "2026-08-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "HERNANDEZ RACHEL",
-      "grantee": "HOSPITAL SOLUTIONS INC",
+      "doc_num": "2026-20423",
+      "doc_type": "AH",
+      "filed": "2026-08-11",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "DENISON PAMELA KIM LOVING",
+      "grantee": "LOVING BONNIE MARIE GIBBS DECEASED",
       "amount": null,
-      "legal": "N/A",
-      "prop_address": "711 N BRANCH ST",
-      "prop_city": "SHERMAN",
+      "legal": "Subdivision - Name: WRIGHT ACRES Lot: 255",
+      "prop_address": "300 FOREST LN",
+      "prop_city": "GORDONVILLE",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "711 N BRANCH ST",
-      "mail_city": "SHERMAN",
+      "mail_address": "LOVING KING LATRESA AND LOVING BILLY LEON 13550 JOE ALLEN ROAD",
+      "mail_city": "PILOT POINT",
       "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "76258",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Hospital lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-19961",
-      "doc_type": "HL",
-      "filed": "2026-08-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "HERNANDEZ EDUARDO",
-      "grantee": "HOSPITAL SOLUTIONS INC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "1504 N HIGHLAND AVE",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1504 N HIGHLAND AVE",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-19964",
-      "doc_type": "HL",
-      "filed": "2026-08-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "HERNANDEZ RACHEL",
-      "grantee": "HOSPITAL SOLUTIONS INC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "711 N BRANCH ST",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "711 N BRANCH ST",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-19957",
-      "doc_type": "HL",
-      "filed": "2026-08-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "MURILLO JESUS",
-      "grantee": "HOSPITAL SOLUTIONS INC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "1535 FM 697",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1503 FM 697",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -364,7 +208,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -390,7 +234,7 @@
       "mail_city": "CELINA",
       "mail_state": "TX",
       "mail_zip": "75009",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -416,7 +260,7 @@
       "mail_city": "HOUSTON",
       "mail_state": "TX",
       "mail_zip": "77034",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -442,7 +286,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -468,7 +312,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260805,20260812&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
