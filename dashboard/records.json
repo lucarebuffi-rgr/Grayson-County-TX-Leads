@@ -1,65 +1,13 @@
 {
-  "fetched_at": "2026-08-13T08:17:13.314295Z",
+  "fetched_at": "2026-08-14T08:12:39.429543Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "08/06/2026",
-    "to": "08/13/2026"
+    "from": "08/07/2026",
+    "to": "08/14/2026"
   },
-  "total": 12,
-  "with_address": 12,
+  "total": 11,
+  "with_address": 11,
   "records": [
-    {
-      "doc_num": "2026-20109",
-      "doc_type": "AH",
-      "filed": "2026-08-06",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "WILLIAMS RHONDA",
-      "grantee": "WILLIAMS LARRY C SR DECEASED",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "146 TWEEDY BIRD LN",
-      "prop_city": "WHITEWRIGHT",
-      "prop_state": "TX",
-      "prop_zip": "75491",
-      "mail_address": "146 TWEEDY BIRD LANE",
-      "mail_city": "WHITEWRIGHT",
-      "mail_state": "TX",
-      "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-20110",
-      "doc_type": "AH",
-      "filed": "2026-08-06",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "WILLIAMS RHONDA",
-      "grantee": "WILLIAMS BRIAN K SR DECEASED",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "146 TWEEDY BIRD LN",
-      "prop_city": "WHITEWRIGHT",
-      "prop_state": "TX",
-      "prop_zip": "75491",
-      "mail_address": "146 TWEEDY BIRD LANE",
-      "mail_city": "WHITEWRIGHT",
-      "mail_state": "TX",
-      "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-20281",
       "doc_type": "AH",
@@ -78,7 +26,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +52,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +78,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +104,7 @@
       "mail_city": "SACHSE",
       "mail_state": "TX",
       "mail_zip": "75048",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -182,64 +130,12 @@
       "mail_city": "PILOT POINT",
       "mail_state": "TX",
       "mail_zip": "76258",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
       ],
       "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-20055",
-      "doc_type": "AJ",
-      "filed": "2026-08-06",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "BILLY TAMMIE",
-      "grantee": "MIDLAND CREDIT MANAGEMENT INC",
-      "amount": null,
-      "legal": "$5975.35",
-      "prop_address": "306 BRYANT ST",
-      "prop_city": "POTTSBORO",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "306 BRYANT ST",
-      "mail_city": "POTTSBORO",
-      "mail_state": "TX",
-      "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-20124",
-      "doc_type": "ML",
-      "filed": "2026-08-06",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "RYKEN SHAWN",
-      "grantee": "EDWIN WADE SERVICES LLC",
-      "amount": null,
-      "legal": "Subdivision - Name: HUNTER S RIDGE 3 Lot: 24 Block: 3",
-      "prop_address": "1748 JILIAN DR",
-      "prop_city": "GUNTER",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1600 GREEN VALLEY WAY",
-      "mail_city": "CELINA",
-      "mail_state": "TX",
-      "mail_zip": "75009",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
       "_demo": false
     },
     {
@@ -260,7 +156,7 @@
       "mail_city": "HOUSTON",
       "mail_state": "TX",
       "mail_zip": "77034",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -286,7 +182,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -312,7 +208,85 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260806,20260813&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-20578",
+      "doc_type": "ML",
+      "filed": "2026-08-12",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "DEWEBER ADAM LEVI",
+      "grantee": "CASHION CUSTOM HOMES LLC",
+      "amount": null,
+      "legal": "Subdivision - Name: REFLECTION BAY ADDN Lot: 31 Block: A",
+      "prop_address": "REFLECTION BAY BLVD",
+      "prop_city": "GORDONVILLE",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "908 N MAPLE ST",
+      "mail_city": "MUENSTER",
+      "mail_state": "TX",
+      "mail_zip": "76252",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-20642",
+      "doc_type": "ML",
+      "filed": "2026-08-12",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "FRIEDLE MICHAEL CHAD",
+      "grantee": "CHRIS REYNOLDS CONSTRUCTION INC",
+      "amount": null,
+      "legal": "Survey - Name: D FARMER SUR Survey: 433 Acres: 22.289",
+      "prop_address": "3823 SUMNER CT",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "3823 SUMNER CT",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-20643",
+      "doc_type": "ML",
+      "filed": "2026-08-12",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "FRIEDLE MICHAEL CHAD",
+      "grantee": "ALLISON LANDSCAPE & POOL CO LTD",
+      "amount": null,
+      "legal": "Survey - Name: D FARMER SUR Survey: 433 Acres: 22.289",
+      "prop_address": "3823 SUMNER CT",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "3823 SUMNER CT",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260807,20260814&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
