@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-09-01T12:23:47.523542Z",
+  "fetched_at": "2026-09-02T12:00:30.328657Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "08/25/2026",
-    "to": "09/01/2026"
+    "from": "08/26/2026",
+    "to": "09/02/2026"
   },
-  "total": 9,
-  "with_address": 9,
+  "total": 14,
+  "with_address": 14,
   "records": [
-    {
-      "doc_num": "2026-21724",
-      "doc_type": "AH",
-      "filed": "2026-08-25",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "FREEMAN WILLIAM K",
-      "grantee": "FREEMAN CAROL DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: TANGLEWOOD VACATION VILLAS Lot: 5111",
-      "prop_address": "1120 LIVE OAK CIR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1120 LIVE OAK CIR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-21968",
       "doc_type": "AH",
@@ -52,33 +26,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-21969",
-      "doc_type": "AH",
-      "filed": "2026-08-26",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "MC CARTY JOSHUA DAVID",
-      "grantee": "MC CARTY DAVID WELLS DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: WRIGHT ACRES Lot: 55",
-      "prop_address": "2408 MONTE CRISTO DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2408 MONTE CRISTO DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +52,33 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-21969",
+      "doc_type": "AH",
+      "filed": "2026-08-26",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "MC CARTY JOSHUA DAVID",
+      "grantee": "MC CARTY DAVID WELLS DECEASED",
+      "amount": null,
+      "legal": "Subdivision - Name: WRIGHT ACRES Lot: 55",
+      "prop_address": "2408 MONTE CRISTO DR",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "2408 MONTE CRISTO DR",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +104,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +130,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -182,7 +156,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Divorce",
         "New this week"
@@ -208,7 +182,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -234,7 +208,163 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260825,20260901&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Hospital lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-22366",
+      "doc_type": "FTL",
+      "filed": "2026-08-31",
+      "cat": "lien",
+      "cat_label": "Federal Tax Lien",
+      "owner": "HOLLAND DARON",
+      "grantee": "U S A INTERNAL REVENUE SERVICE",
+      "amount": null,
+      "legal": "$24636.82",
+      "prop_address": "912 S BRYANT AVE",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "ANGELA",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Tax lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-22333",
+      "doc_type": "AJ",
+      "filed": "2026-08-31",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "BROOKS JERRY",
+      "grantee": "JPMORGAN CHASE BANK NA",
+      "amount": null,
+      "legal": "$33795.49",
+      "prop_address": "513 THOMPSON DR",
+      "prop_city": "VAN ALSTYNE",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "513 THOMPSON DR",
+      "mail_city": "VAN ALSTYNE",
+      "mail_state": "TX",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-22334",
+      "doc_type": "AJ",
+      "filed": "2026-08-31",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "BROOKS JERRY D",
+      "grantee": "JPMORGAN CHASE BANK NA",
+      "amount": null,
+      "legal": "$25461.79",
+      "prop_address": "513 THOMPSON DR",
+      "prop_city": "VAN ALSTYNE",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "513 THOMPSON DR",
+      "mail_city": "VAN ALSTYNE",
+      "mail_state": "TX",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-22329",
+      "doc_type": "AJ",
+      "filed": "2026-08-31",
+      "cat": "judgment",
+      "cat_label": "Abstract of Judgment",
+      "owner": "JONES GREG B",
+      "grantee": "FOUNDATION FINANCE CO LLC",
+      "amount": null,
+      "legal": "$14869.00",
+      "prop_address": "337 MEADOW ESTATE ST",
+      "prop_city": "TOM BEAN",
+      "prop_state": "TX",
+      "prop_zip": "75489",
+      "mail_address": "337 MEADOWS ESTATE ST",
+      "mail_city": "TOM BEAN",
+      "mail_state": "TX",
+      "mail_zip": "75491",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-22339",
+      "doc_type": "ML",
+      "filed": "2026-08-31",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "SMITH PAUL C III",
+      "grantee": "SMITH REAL DEVELOPMENT LLC",
+      "amount": null,
+      "legal": "Survey - Name: C DAUGHERTY SUR Survey: 339 Acres: PT 40.725",
+      "prop_address": "500 HEBRON RD",
+      "prop_city": "SAVOY",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "500 HEBRON RD",
+      "mail_city": "SAVOY",
+      "mail_state": "TX",
+      "mail_zip": "75479",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-22317",
+      "doc_type": "HL",
+      "filed": "2026-08-31",
+      "cat": "lien",
+      "cat_label": "Hospital Lien",
+      "owner": "HINES JOHN",
+      "grantee": "TEXOMA MEDICAL CENTER",
+      "amount": null,
+      "legal": "N/A",
+      "prop_address": "1425 ANDY DR",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "1425 ANDY DR",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
