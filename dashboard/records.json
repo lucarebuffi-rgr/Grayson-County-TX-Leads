@@ -1,91 +1,13 @@
 {
-  "fetched_at": "2026-09-02T12:00:30.328657Z",
+  "fetched_at": "2026-09-03T11:59:39.754428Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "08/26/2026",
-    "to": "09/02/2026"
+    "from": "08/27/2026",
+    "to": "09/03/2026"
   },
-  "total": 14,
-  "with_address": 14,
+  "total": 11,
+  "with_address": 11,
   "records": [
-    {
-      "doc_num": "2026-21968",
-      "doc_type": "AH",
-      "filed": "2026-08-26",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "MC CARTY JOSHUA DAVID",
-      "grantee": "MC CARTY DUDLEY WELLS DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: WRIGHT ACRES Lot: 55",
-      "prop_address": "2408 MONTE CRISTO DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2408 MONTE CRISTO DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-21970",
-      "doc_type": "AH",
-      "filed": "2026-08-26",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "MC CARTY JOSHUA DAVID",
-      "grantee": "MC CARTY JEFFREY DAVID DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: WRIGHT ACRES Lot: 55",
-      "prop_address": "2408 MONTE CRISTO DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2408 MONTE CRISTO DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-21969",
-      "doc_type": "AH",
-      "filed": "2026-08-26",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "MC CARTY JOSHUA DAVID",
-      "grantee": "MC CARTY DAVID WELLS DECEASED",
-      "amount": null,
-      "legal": "Subdivision - Name: WRIGHT ACRES Lot: 55",
-      "prop_address": "2408 MONTE CRISTO DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2408 MONTE CRISTO DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-22199",
       "doc_type": "AH",
@@ -104,7 +26,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -113,55 +35,55 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-21904",
-      "doc_type": "FTL",
-      "filed": "2026-08-26",
-      "cat": "lien",
-      "cat_label": "Federal Tax Lien",
-      "owner": "MARTIN ELLEN L",
-      "grantee": "U S A INTERNAL REVENUE SERVICE",
+      "doc_num": "2026-22428",
+      "doc_type": "PB",
+      "filed": "2026-09-01",
+      "cat": "probate",
+      "cat_label": "Probate",
+      "owner": "BAKER DON G DECEASED",
+      "grantee": "PUBLIC",
       "amount": null,
-      "legal": "$41954.59",
-      "prop_address": "100 E ELBERT RD",
-      "prop_city": "VAN ALSTYNE",
+      "legal": "N/A",
+      "prop_address": "1317 W DAY ST",
+      "prop_city": "DENISON",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "100 E ELBERT RD",
-      "mail_city": "VAN ALSTYNE",
+      "mail_address": "2689 E FM 120",
+      "mail_city": "DENISON",
       "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75021",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Tax lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
-      "doc_num": "2026-21890",
-      "doc_type": "DV",
-      "filed": "2026-08-26",
-      "cat": "other",
-      "cat_label": "Divorce",
-      "owner": "VAN DER GIESSEN LISA",
-      "grantee": "VAN DER GIESSEN WILLIAM",
+      "doc_num": "2026-22494",
+      "doc_type": "PB",
+      "filed": "2026-09-01",
+      "cat": "probate",
+      "cat_label": "Probate",
+      "owner": "BILLY CHARLES ALLEN DECEASED",
+      "grantee": "PUBLIC",
       "amount": null,
-      "legal": "Subdivision - Name: STAPLES ADDN Lot: 2 Block: 4",
-      "prop_address": "58 JAMES CT",
-      "prop_city": "POTTSBORO",
+      "legal": "N/A",
+      "prop_address": "1195 PILOT GROVE RD",
+      "prop_city": "WHITEWRIGHT",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "58 JAMES CT",
-      "mail_city": "POTTSBORO",
+      "mail_address": "1195 PILOT GROVE RD",
+      "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
-      "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=DV&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75491",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Divorce",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -182,7 +104,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -208,7 +130,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -234,7 +156,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -260,7 +182,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -286,7 +208,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -312,7 +234,7 @@
       "mail_city": "TOM BEAN",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -338,7 +260,7 @@
       "mail_city": "SAVOY",
       "mail_state": "TX",
       "mail_zip": "75479",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -364,7 +286,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260826,20260902&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260827,20260903&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
