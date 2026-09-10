@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-09T12:11:11.557464Z",
+  "fetched_at": "2026-09-10T12:06:51.733080Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "09/02/2026",
-    "to": "09/09/2026"
+    "from": "09/03/2026",
+    "to": "09/10/2026"
   },
-  "total": 7,
-  "with_address": 7,
+  "total": 9,
+  "with_address": 9,
   "records": [
     {
       "doc_num": "2026-22886",
@@ -26,7 +26,7 @@
       "mail_city": "BELLS",
       "mail_state": "TX",
       "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -35,29 +35,55 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-22619",
-      "doc_type": "ML",
-      "filed": "2026-09-02",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "PIERCE DAVID",
-      "grantee": "EVOLUTION REALTY LLC",
+      "doc_num": "2026-23001",
+      "doc_type": "AH",
+      "filed": "2026-09-08",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "PEDIGO SHARON ELIZABETH HALE",
+      "grantee": "HALE LELAND WAYNE SR DECEASED",
       "amount": null,
-      "legal": "Subdivision- Name: CIMARRON ADDN 1 Lot: 6 Block: C",
-      "prop_address": "212 FRIENDSHIP CIR",
-      "prop_city": "BELLS",
+      "legal": "Survey- Name: JM REYNOLDS Survey: 1347 Acres: 102 1/2",
+      "prop_address": "619 W BIRGE ST",
+      "prop_city": "SHERMAN",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "212 FRIENDSHIP CIR",
-      "mail_city": "BELLS",
+      "mail_address": "619 W BIRGE ST",
+      "mail_city": "SHERMAN",
       "mail_state": "TX",
-      "mail_zip": "75414",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Mechanic lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23055",
+      "doc_type": "AH",
+      "filed": "2026-09-08",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "LEE MICHELLE LEE",
+      "grantee": "LEE DANNY RAY DECEASED",
+      "amount": null,
+      "legal": "Survey- Name: E CLARK SUR Survey: 293 Acres: .535",
+      "prop_address": "68 FRIAR TUCK DR",
+      "prop_city": "GORDONVILLE",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "68 FRIAR TUCK DR",
+      "mail_city": "GORDONVILLE",
+      "mail_state": "TX",
+      "mail_zip": "76245",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
       "_demo": false
     },
     {
@@ -78,7 +104,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -104,7 +130,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -130,7 +156,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=CSL&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=CSL&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Child support lien",
         "New this week"
@@ -156,7 +182,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -182,9 +208,35 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260902,20260909&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23074",
+      "doc_type": "STL",
+      "filed": "2026-09-08",
+      "cat": "lien",
+      "cat_label": "State Tax Lien",
+      "owner": "BRAMBLE WILLIAM DANIEL",
+      "grantee": "TEXAS STATE OF",
+      "amount": null,
+      "legal": "$5266.46",
+      "prop_address": "333 BEACH",
+      "prop_city": "POTTSBORO",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "85417 N ST HWY 289",
+      "mail_city": "POTTSBORO",
+      "mail_state": "TX",
+      "mail_zip": "75076",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260903,20260910&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Tax lien",
         "New this week"
       ],
       "score": 60,
