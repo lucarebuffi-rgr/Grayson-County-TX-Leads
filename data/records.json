@@ -1,65 +1,13 @@
 {
-  "fetched_at": "2026-09-15T12:28:42.673440Z",
+  "fetched_at": "2026-09-16T12:25:47.268177Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "09/08/2026",
-    "to": "09/15/2026"
+    "from": "09/09/2026",
+    "to": "09/16/2026"
   },
-  "total": 10,
-  "with_address": 10,
+  "total": 13,
+  "with_address": 13,
   "records": [
-    {
-      "doc_num": "2026-23001",
-      "doc_type": "AH",
-      "filed": "2026-09-08",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "PEDIGO SHARON ELIZABETH HALE",
-      "grantee": "HALE LELAND WAYNE SR DECEASED",
-      "amount": null,
-      "legal": "Survey- Name: JM REYNOLDS Survey: 1347 Acres: 102 1/2",
-      "prop_address": "619 W BIRGE ST",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "619 W BIRGE ST",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-23055",
-      "doc_type": "AH",
-      "filed": "2026-09-08",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "LEE MICHELLE LEE",
-      "grantee": "LEE DANNY RAY DECEASED",
-      "amount": null,
-      "legal": "Survey- Name: E CLARK SUR Survey: 293 Acres: .535",
-      "prop_address": "68 FRIAR TUCK DR",
-      "prop_city": "GORDONVILLE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "68 FRIAR TUCK DR",
-      "mail_city": "GORDONVILLE",
-      "mail_state": "TX",
-      "mail_zip": "76245",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-23172",
       "doc_type": "PB",
@@ -78,7 +26,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +52,7 @@
       "mail_city": "HOWE",
       "mail_state": "TX",
       "mail_zip": "75459",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -113,29 +61,81 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-23074",
-      "doc_type": "STL",
-      "filed": "2026-09-08",
-      "cat": "lien",
-      "cat_label": "State Tax Lien",
-      "owner": "BRAMBLE WILLIAM DANIEL",
-      "grantee": "TEXAS STATE OF",
+      "doc_num": "2026-23589",
+      "doc_type": "AH",
+      "filed": "2026-09-14",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "KILLAM LINWOOD J",
+      "grantee": "KILLAM JANE H DECEASED",
       "amount": null,
-      "legal": "$5266.46",
-      "prop_address": "333 BEACH",
-      "prop_city": "POTTSBORO",
+      "legal": "Subdivision- Name: PRONGHORN ADDN Lot: 5 Block: D",
+      "prop_address": "159 PRONGHORN DR",
+      "prop_city": "GORDONVILLE",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "85417 N ST HWY 289",
-      "mail_city": "POTTSBORO",
+      "mail_address": "159 PRONGHORN DR",
+      "mail_city": "GORDONVILLE",
       "mail_state": "TX",
-      "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=STL&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "76245",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Tax lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23618",
+      "doc_type": "AH",
+      "filed": "2026-09-14",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "GOOTAS CAROL J",
+      "grantee": "GOOTAS HARRY PETER DECEASED",
+      "amount": null,
+      "legal": "Subdivision- Name: SHERDEN TERRACE ADDN Lot: 14 Block: 3",
+      "prop_address": "3118 RICHELIEU ST",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "75090",
+      "mail_address": "3118 RICHELIEU ST",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23549",
+      "doc_type": "AH",
+      "filed": "2026-09-14",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "MILLER DIANA",
+      "grantee": "ROBERTS CHARLES RAY DECEASED",
+      "amount": null,
+      "legal": "Subdivision- Name: MILLER S 1 ADDN Lot: 15 Block: 6",
+      "prop_address": "1800 PEBBLEBROOK LN",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "1800 PEBBLEBROOK LN",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
       "_demo": false
     },
     {
@@ -156,7 +156,7 @@
       "mail_city": "MCKINNEY",
       "mail_state": "TX",
       "mail_zip": "75069",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -182,7 +182,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=QCD&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Quit claim deed",
         "New this week"
@@ -208,7 +208,7 @@
       "mail_city": "COLLINSVILLE",
       "mail_state": "TX",
       "mail_zip": "76233",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -234,7 +234,7 @@
       "mail_city": "GORDONVILLE",
       "mail_state": "TX",
       "mail_zip": "76245",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -260,9 +260,87 @@
       "mail_city": "SADLER",
       "mail_state": "TX",
       "mail_zip": "76264",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260908,20260915&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23599",
+      "doc_type": "HL",
+      "filed": "2026-09-14",
+      "cat": "lien",
+      "cat_label": "Hospital Lien",
+      "owner": "TAYLOR ROBERT",
+      "grantee": "MONGE VERONICA AGENT",
+      "amount": null,
+      "legal": "N/A",
+      "prop_address": "4046 WOODLAWN RD",
+      "prop_city": "DENISON",
+      "prop_state": "TX",
+      "prop_zip": "75021",
+      "mail_address": "4046 WOODLAWN RD",
+      "mail_city": "DENISON",
+      "mail_state": "TX",
+      "mail_zip": "75021",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Hospital lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23600",
+      "doc_type": "HL",
+      "filed": "2026-09-14",
+      "cat": "lien",
+      "cat_label": "Hospital Lien",
+      "owner": "RODRIGUEZ MARY",
+      "grantee": "MONGE VERONICA AGENT",
+      "amount": null,
+      "legal": "N/A",
+      "prop_address": "5105 PARK AVE",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "75092",
+      "mail_address": "5105 PARK AVE",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75092",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Hospital lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-23566",
+      "doc_type": "ALN",
+      "filed": "2026-09-14",
+      "cat": "lien",
+      "cat_label": "HOA Lien",
+      "owner": "SALAZAR JUAN C",
+      "grantee": "RESERVE AT GATEWAY HOA INC",
+      "amount": null,
+      "legal": "Subdivision- Name: RESERVE 1-3 Lot: 5 Block: A",
+      "prop_address": "2345 OLD SANDBORN RANCH RD",
+      "prop_city": "WHITESBORO",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "2721 JASMINE LN",
+      "mail_city": "PLANO",
+      "mail_state": "TX",
+      "mail_zip": "75074",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20260909,20260916&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "HOA lien",
         "New this week"
       ],
       "score": 60,
