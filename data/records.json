@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-12T16:27:26.069295Z",
+  "fetched_at": "2026-10-13T14:49:19.440056Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/05/2026",
-    "to": "10/12/2026"
+    "from": "10/06/2026",
+    "to": "10/13/2026"
   },
-  "total": 12,
-  "with_address": 12,
+  "total": 10,
+  "with_address": 10,
   "records": [
     {
       "doc_num": "2026-25687",
@@ -26,7 +26,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -52,7 +52,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +78,7 @@
       "mail_city": "LAS VAGAS",
       "mail_state": "NV",
       "mail_zip": "89166",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +104,7 @@
       "mail_city": "LAS VAGAS",
       "mail_state": "NV",
       "mail_zip": "89166",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +130,7 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +156,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -165,81 +165,29 @@
       "_demo": false
     },
     {
-      "doc_num": "2026-25537",
-      "doc_type": "FTL",
-      "filed": "2026-10-05",
-      "cat": "lien",
-      "cat_label": "Federal Tax Lien",
-      "owner": "GIBSON PATRICK",
-      "grantee": "U S A INTERNAL REVENUE SERVICE",
+      "doc_num": "2026-26056",
+      "doc_type": "AH",
+      "filed": "2026-10-12",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "MOORE RICKY LEE",
+      "grantee": "SCHNITTGER DARWIN DALE DECEASED",
       "amount": null,
-      "legal": "$30286.91",
-      "prop_address": "410 OAK HOLLOW LN",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "410 OAK HOLLOW LANE",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Tax lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-25544",
-      "doc_type": "HL",
-      "filed": "2026-10-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "PEREZ GARCIA LUIS",
-      "grantee": "MONGE VERONICA AGENT",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "802 N EAST ST",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "810 N EAST ST",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-25547",
-      "doc_type": "HL",
-      "filed": "2026-10-05",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "SUTTON MICHAEL",
-      "grantee": "MONGE VERONICA AGENT",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "911 S FRENCH AVE",
+      "legal": "Subdivision- Name: SADDLE HILLS ADDN Lot: 3 Block: 2",
+      "prop_address": "E FM 120",
       "prop_city": "DENISON",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "",
+      "mail_address": "128 RIVER OAKS LN",
       "mail_city": "DENISON",
       "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_zip": "75021",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
-        "Hospital lien",
+        "Probate / estate",
         "New this week"
       ],
-      "score": 60,
+      "score": 70,
       "_demo": false
     },
     {
@@ -260,7 +208,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -286,7 +234,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -312,7 +260,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261005,20261012&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
