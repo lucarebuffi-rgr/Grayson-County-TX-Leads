@@ -1,65 +1,13 @@
 {
-  "fetched_at": "2026-10-13T14:49:19.440056Z",
+  "fetched_at": "2026-10-14T12:43:22.753995Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/06/2026",
-    "to": "10/13/2026"
+    "from": "10/07/2026",
+    "to": "10/14/2026"
   },
-  "total": 10,
-  "with_address": 10,
+  "total": 6,
+  "with_address": 6,
   "records": [
-    {
-      "doc_num": "2026-25687",
-      "doc_type": "AH",
-      "filed": "2026-10-06",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "HENDERSON JAMES",
-      "grantee": "WATSON MYRNA LOU DECEASED",
-      "amount": null,
-      "legal": "MULTIPLE PROPERTIES SEE INSTRUMENT",
-      "prop_address": "625 PATRICIA DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "625 PATRICIA DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-25689",
-      "doc_type": "AH",
-      "filed": "2026-10-06",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "HENDERSON JAMES",
-      "grantee": "WATSON EDDIE LEE",
-      "amount": null,
-      "legal": "MULTIPLE PROPERTIES SEE INSTRUMENT",
-      "prop_address": "625 PATRICIA DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "625 PATRICIA DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-25844",
       "doc_type": "AH",
@@ -78,7 +26,7 @@
       "mail_city": "LAS VAGAS",
       "mail_state": "NV",
       "mail_zip": "89166",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261007,20261014&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +52,7 @@
       "mail_city": "LAS VAGAS",
       "mail_state": "NV",
       "mail_zip": "89166",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261007,20261014&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +78,7 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20261007,20261014&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -156,7 +104,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261007,20261014&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -182,64 +130,12 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261007,20261014&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
       ],
       "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-25595",
-      "doc_type": "AJ",
-      "filed": "2026-10-06",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "PRUETT JAMIE",
-      "grantee": "CAVALRY SPV I LLC",
-      "amount": null,
-      "legal": "$3048.31",
-      "prop_address": "912 ROLAND RD",
-      "prop_city": "WHITESBORO",
-      "prop_state": "TX",
-      "prop_zip": "76273",
-      "mail_address": "912 ROLAND RD",
-      "mail_city": "WHITESBORO",
-      "mail_state": "TX",
-      "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-25559",
-      "doc_type": "ALN",
-      "filed": "2026-10-06",
-      "cat": "lien",
-      "cat_label": "HOA Lien",
-      "owner": "VOWELL ZUNDEL TJ",
-      "grantee": "VALDES ALEX S ATTORNEY",
-      "amount": null,
-      "legal": "Subdivision- Name: RIVER RANCH I Lot: 2 Block: F",
-      "prop_address": "625 BRAZOS DR",
-      "prop_city": "VAN ALSTYNE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "625 BRAZOS DRIVE",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "HOA lien",
-        "New this week"
-      ],
-      "score": 60,
       "_demo": false
     },
     {
@@ -260,7 +156,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261006,20261013&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261007,20261014&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
