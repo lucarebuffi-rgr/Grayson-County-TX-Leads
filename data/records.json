@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-10-15T12:27:14.385236Z",
+  "fetched_at": "2026-10-16T12:08:04.596070Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/08/2026",
-    "to": "10/15/2026"
+    "from": "10/09/2026",
+    "to": "10/16/2026"
   },
-  "total": 9,
-  "with_address": 9,
+  "total": 11,
+  "with_address": 11,
   "records": [
-    {
-      "doc_num": "2026-25877",
-      "doc_type": "PB",
-      "filed": "2026-10-08",
-      "cat": "probate",
-      "cat_label": "Probate",
-      "owner": "ISBELL MARGARET NELL DECEASED ESTATE",
-      "grantee": "PUBLIC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "305 E BONHAM",
-      "prop_city": "TOM BEAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "305 E BONHAM",
-      "mail_city": "WHITEWRIGHT",
-      "mail_state": "TX",
-      "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=PB&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-25973",
       "doc_type": "AH",
@@ -52,7 +26,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -78,7 +52,7 @@
       "mail_city": "DENISON",
       "mail_state": "TX",
       "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -104,7 +78,33 @@
       "mail_city": "COLLINSVILLE",
       "mail_state": "TX",
       "mail_zip": "76233",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-26306",
+      "doc_type": "AH",
+      "filed": "2026-10-14",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "KRAUSS SHARON SLAUGHTER",
+      "grantee": "KRAUSS RONALD C DECEASED",
+      "amount": null,
+      "legal": "Subdivision- Name: PANIAGUA ADDN Lot: 2",
+      "prop_address": "1214 E IDA RD",
+      "prop_city": "SHERMAN",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "1214 E IDA RD",
+      "mail_city": "SHERMAN",
+      "mail_state": "TX",
+      "mail_zip": "75090",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
@@ -130,7 +130,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=FTL&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Tax lien",
         "New this week"
@@ -156,7 +156,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -182,7 +182,7 @@
       "mail_city": "WHITESBORO",
       "mail_state": "TX",
       "mail_zip": "76273",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -208,7 +208,7 @@
       "mail_city": "POTTSBORO",
       "mail_state": "TX",
       "mail_zip": "75076",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -234,9 +234,61 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261008,20261015&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-26392",
+      "doc_type": "ML",
+      "filed": "2026-10-14",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "GOOD GEOFFREY D",
+      "grantee": "TGC CUSTOM HOMES LLC",
+      "amount": null,
+      "legal": "Survey- Name: PO PARR SUR Survey: 972 Acres: 12.41",
+      "prop_address": "737 SANDUSKY RD",
+      "prop_city": "WHITESBORO",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "11210 LAKECREST DR",
+      "mail_city": "SANGER",
+      "mail_state": "TX",
+      "mail_zip": "76266",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "Mechanic lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "2026-26293",
+      "doc_type": "ALN",
+      "filed": "2026-10-14",
+      "cat": "lien",
+      "cat_label": "HOA Lien",
+      "owner": "DAVIS SARAH ELIZABETH",
+      "grantee": "RESERVE AT GATEWAY HOA INC",
+      "amount": null,
+      "legal": "Subdivision- Name: THE RESERVE 4 Lot: 5 Block: J",
+      "prop_address": "4425 SANCTUARY DR",
+      "prop_city": "DENISON",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "4425 SANCTUARY DR",
+      "mail_city": "DENISON",
+      "mail_state": "TX",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261009,20261016&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "flags": [
+        "HOA lien",
         "New this week"
       ],
       "score": 60,
