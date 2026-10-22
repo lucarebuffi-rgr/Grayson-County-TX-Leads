@@ -1,90 +1,11 @@
 {
-  "fetched_at": "2026-10-21T12:46:02.286853Z",
+  "fetched_at": "2026-10-22T12:45:53.649029Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/14/2026",
-    "to": "10/21/2026"
+    "from": "10/15/2026",
+    "to": "10/22/2026"
   },
-  "total": 3,
-  "with_address": 3,
-  "records": [
-    {
-      "doc_num": "2026-26306",
-      "doc_type": "AH",
-      "filed": "2026-10-14",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "KRAUSS SHARON SLAUGHTER",
-      "grantee": "KRAUSS RONALD C DECEASED",
-      "amount": null,
-      "legal": "Subdivision- Name: PANIAGUA ADDN Lot: 2",
-      "prop_address": "1214 E IDA RD",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1214 E IDA RD",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75090",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261014,20261021&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-26392",
-      "doc_type": "ML",
-      "filed": "2026-10-14",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "GOOD GEOFFREY D",
-      "grantee": "TGC CUSTOM HOMES LLC",
-      "amount": null,
-      "legal": "Survey- Name: PO PARR SUR Survey: 972 Acres: 12.41",
-      "prop_address": "737 SANDUSKY RD",
-      "prop_city": "WHITESBORO",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "11210 LAKECREST DR",
-      "mail_city": "SANGER",
-      "mail_state": "TX",
-      "mail_zip": "76266",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261014,20261021&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-26293",
-      "doc_type": "ALN",
-      "filed": "2026-10-14",
-      "cat": "lien",
-      "cat_label": "HOA Lien",
-      "owner": "DAVIS SARAH ELIZABETH",
-      "grantee": "RESERVE AT GATEWAY HOA INC",
-      "amount": null,
-      "legal": "Subdivision- Name: THE RESERVE 4 Lot: 5 Block: J",
-      "prop_address": "4425 SANCTUARY DR",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "4425 SANCTUARY DR",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75020",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261014,20261021&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "HOA lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    }
-  ]
+  "total": 0,
+  "with_address": 0,
+  "records": []
 }
