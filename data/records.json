@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-10-29T13:58:31.388550Z",
+  "fetched_at": "2026-10-30T13:50:58.549136Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/22/2026",
-    "to": "10/29/2026"
+    "from": "10/23/2026",
+    "to": "10/30/2026"
   },
-  "total": 11,
-  "with_address": 11,
+  "total": 8,
+  "with_address": 8,
   "records": [
-    {
-      "doc_num": "2026-27144",
-      "doc_type": "AH",
-      "filed": "2026-10-22",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "WELLS JENNIFER",
-      "grantee": "WELLS BENJAMIN FRANKLIN DECEASED",
-      "amount": null,
-      "legal": "Survey- Name: J GRIMES SUR Survey: 455 Acres: 1.31",
-      "prop_address": "HUNT RD",
-      "prop_city": "GUNTER",
-      "prop_state": "TX",
-      "prop_zip": "75058",
-      "mail_address": "137 PRICE CIR",
-      "mail_city": "FRISCO",
-      "mail_state": "TX",
-      "mail_zip": "75036",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "2026-27287",
       "doc_type": "AH",
@@ -52,64 +26,12 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Probate / estate",
         "New this week"
       ],
       "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27079",
-      "doc_type": "AJ",
-      "filed": "2026-10-22",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "GRIFFIN ANGELA",
-      "grantee": "SYNCHRONY BANK",
-      "amount": null,
-      "legal": "$4354.32",
-      "prop_address": "65 GALLEY DR",
-      "prop_city": "DENISON",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "65 GALLEY DR",
-      "mail_city": "DENISON",
-      "mail_state": "TX",
-      "mail_zip": "75021",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27169",
-      "doc_type": "ML",
-      "filed": "2026-10-22",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "PATTON STEVEN RAY",
-      "grantee": "IN & OUT HOME SERVICES",
-      "amount": null,
-      "legal": "Subdivision- Name: MEALS BROOKS ADDN Lot: 1",
-      "prop_address": "150 BROOKS LN",
-      "prop_city": "SADLER",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "150 BROOKS LN",
-      "mail_city": "SADLER",
-      "mail_state": "TX",
-      "mail_zip": "76264",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
       "_demo": false
     },
     {
@@ -130,7 +52,7 @@
       "mail_city": "WICHITA FALLS",
       "mail_state": "TX",
       "mail_zip": "76308",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Judgment lien",
         "New this week"
@@ -156,7 +78,7 @@
       "mail_city": "WHITEWRIGHT",
       "mail_state": "TX",
       "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
@@ -182,7 +104,7 @@
       "mail_city": "SAVOY",
       "mail_state": "TX",
       "mail_zip": "75479",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -208,7 +130,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -234,7 +156,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -260,7 +182,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -286,7 +208,7 @@
       "mail_city": "NORTH RICHLAND HILLS",
       "mail_state": "TX",
       "mail_zip": "76180",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261022,20261029&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
