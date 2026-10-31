@@ -1,91 +1,13 @@
 {
-  "fetched_at": "2026-10-30T13:50:58.549136Z",
+  "fetched_at": "2026-10-31T13:21:02.622389Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/23/2026",
-    "to": "10/30/2026"
+    "from": "10/24/2026",
+    "to": "10/31/2026"
   },
-  "total": 8,
-  "with_address": 8,
+  "total": 5,
+  "with_address": 5,
   "records": [
-    {
-      "doc_num": "2026-27287",
-      "doc_type": "AH",
-      "filed": "2026-10-23",
-      "cat": "probate",
-      "cat_label": "Affidavit of Heirship",
-      "owner": "COLLINS MIKE WAYNE",
-      "grantee": "COLLINS LESLIE G DECEASED",
-      "amount": null,
-      "legal": "Subdivision- Name: PEBBLEBROOK SOUTH II Lot: 35 Block: K",
-      "prop_address": "2303 SOUTHRIDGE LN",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2303 SOUTHRIDGE LN",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27240",
-      "doc_type": "AJ",
-      "filed": "2026-10-23",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "KELLEY DAVID A",
-      "grantee": "GO FEDERAL CREDIT UNION",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "489 CHOCTAW DR",
-      "prop_city": "GORDONVILLE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1 JOY CT",
-      "mail_city": "WICHITA FALLS",
-      "mail_state": "TX",
-      "mail_zip": "76308",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Judgment lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27276",
-      "doc_type": "ML",
-      "filed": "2026-10-23",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "LEUTWYLER SCOTT",
-      "grantee": "JGCG ENTERPRISES LLC",
-      "amount": null,
-      "legal": "Survey- Name: F SWETENBURG SUR Survey: 1065 Acres: 15.698",
-      "prop_address": "353 GOSNELL RD",
-      "prop_city": "WHITEWRIGHT",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "PO BOX 514",
-      "mail_city": "WHITEWRIGHT",
-      "mail_state": "TX",
-      "mail_zip": "75491",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
     {
       "doc_num": "2026-27386",
       "doc_type": "HL",
@@ -104,7 +26,7 @@
       "mail_city": "SAVOY",
       "mail_state": "TX",
       "mail_zip": "75479",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261024,20261031&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -130,7 +52,7 @@
       "mail_city": "SHERMAN",
       "mail_state": "TX",
       "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261024,20261031&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Hospital lien",
         "New this week"
@@ -156,7 +78,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261024,20261031&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -182,7 +104,7 @@
       "mail_city": "VAN ALSTYNE",
       "mail_state": "TX",
       "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261024,20261031&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "HOA lien",
         "New this week"
@@ -208,7 +130,7 @@
       "mail_city": "NORTH RICHLAND HILLS",
       "mail_state": "TX",
       "mail_zip": "76180",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261023,20261030&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261024,20261031&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
