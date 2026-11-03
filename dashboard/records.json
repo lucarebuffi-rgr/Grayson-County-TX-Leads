@@ -1,117 +1,13 @@
 {
-  "fetched_at": "2026-11-02T16:50:24.850864Z",
+  "fetched_at": "2026-11-03T14:59:00.623932Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "10/26/2026",
-    "to": "11/02/2026"
+    "from": "10/27/2026",
+    "to": "11/03/2026"
   },
-  "total": 5,
-  "with_address": 5,
+  "total": 1,
+  "with_address": 1,
   "records": [
-    {
-      "doc_num": "2026-27386",
-      "doc_type": "HL",
-      "filed": "2026-10-26",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "WALTHALL PAULA",
-      "grantee": "HOSPITAL SOLUTIONS INC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "206 E PARK ST",
-      "prop_city": "BELLS",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "CO PAULA JAN WALTHALL 104 PORTER CIR",
-      "mail_city": "SAVOY",
-      "mail_state": "TX",
-      "mail_zip": "75479",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261026,20261102&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27385",
-      "doc_type": "HL",
-      "filed": "2026-10-26",
-      "cat": "lien",
-      "cat_label": "Hospital Lien",
-      "owner": "SLOAN TYLER",
-      "grantee": "HOSPITAL SOLUTIONS INC",
-      "amount": null,
-      "legal": "N/A",
-      "prop_address": "2328 DIANA DR",
-      "prop_city": "SHERMAN",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2328 DIANA DR",
-      "mail_city": "SHERMAN",
-      "mail_state": "TX",
-      "mail_zip": "75092",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=HL&recordedDateRange=20261026,20261102&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "Hospital lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27364",
-      "doc_type": "ALN",
-      "filed": "2026-10-26",
-      "cat": "lien",
-      "cat_label": "HOA Lien",
-      "owner": "SARUWAKA MASIMBA R",
-      "grantee": "THOMPSON FARM HOMEOWNERS ASN IN",
-      "amount": null,
-      "legal": "Subdivision- Name: THOMPSON FARMS 1 Lot: 4 Block: A",
-      "prop_address": "1933 BARNHILL LN",
-      "prop_city": "VAN ALSTYNE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1933 BARNHILL LN",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261026,20261102&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "HOA lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "2026-27363",
-      "doc_type": "ALN",
-      "filed": "2026-10-26",
-      "cat": "lien",
-      "cat_label": "HOA Lien",
-      "owner": "CHAREKA MOYO FLORENCE",
-      "grantee": "THOMPSON FARM HOMEOWNERS ASN INC",
-      "amount": null,
-      "legal": "Subdivision- Name: THOMPSON FARMS 1 Lot: 14 Block: E",
-      "prop_address": "1730 HORSESHOE LN",
-      "prop_city": "VAN ALSTYNE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1730 HORSESHOE LANE",
-      "mail_city": "VAN ALSTYNE",
-      "mail_state": "TX",
-      "mail_zip": "75495",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ALN&recordedDateRange=20261026,20261102&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
-      "flags": [
-        "HOA lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
     {
       "doc_num": "2026-27541",
       "doc_type": "ML",
@@ -130,7 +26,7 @@
       "mail_city": "NORTH RICHLAND HILLS",
       "mail_state": "TX",
       "mail_zip": "76180",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261026,20261102&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&recordedDateRange=20261027,20261103&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
       "flags": [
         "Mechanic lien",
         "New this week"
