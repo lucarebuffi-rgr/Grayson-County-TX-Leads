@@ -1,38 +1,90 @@
 {
-  "fetched_at": "2026-11-12T15:54:16.079728Z",
+  "fetched_at": "2026-11-13T15:14:48.908048Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "11/05/2026",
-    "to": "11/12/2026"
+    "from": "11/06/2026",
+    "to": "11/13/2026"
   },
-  "total": 1,
-  "with_address": 1,
+  "total": 3,
+  "with_address": 3,
   "records": [
     {
-      "doc_num": "2026-28380",
-      "doc_type": "AJ",
-      "filed": "2026-11-05",
-      "cat": "judgment",
-      "cat_label": "Abstract of Judgment",
-      "owner": "BUNTEN VERONICA F",
-      "grantee": "MIDLAND CREDIT MANAGEMENT INC",
+      "doc_num": "2026-DEMO-0001",
+      "doc_type": "LP",
+      "filed": "2026-11-06",
+      "cat": "pre_foreclosure",
+      "cat_label": "Lis Pendens",
+      "owner": "SMITH ROBERT",
+      "grantee": "ROCKET MORTGAGE LLC",
       "amount": null,
-      "legal": "$3137.54",
-      "prop_address": "43 JUSTICE LN",
-      "prop_city": "POTTSBORO",
+      "legal": "DEMO RECORD",
+      "prop_address": "506 RED BARN DR",
+      "prop_city": "VAN ALSTYNE",
       "prop_state": "TX",
       "prop_zip": "",
-      "mail_address": "44024 RIVO CT",
-      "mail_city": "TEMECULA",
-      "mail_state": "CA",
-      "mail_zip": "92592",
-      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AJ&recordedDateRange=20261105,20261112&searchType=quickSearch&keywordSearch=false&searchOcrText=false",
+      "mail_address": "506 RED BARN DRIVE",
+      "mail_city": "VAN ALSTYNE",
+      "mail_state": "TX",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=LP&searchType=quickSearch",
       "flags": [
-        "Judgment lien",
+        "Lis pendens",
+        "New this week"
+      ],
+      "score": 80,
+      "_demo": true
+    },
+    {
+      "doc_num": "2026-DEMO-0010",
+      "doc_type": "AH",
+      "filed": "2026-11-08",
+      "cat": "probate",
+      "cat_label": "Affidavit of Heirship",
+      "owner": "GARCIA CARLOS",
+      "grantee": "GARCIA MARIA",
+      "amount": null,
+      "legal": "DEMO RECORD",
+      "prop_address": "520 W CRAWFORD ST",
+      "prop_city": "DENISON",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "520 W CRAWFORD",
+      "mail_city": "DENISON",
+      "mail_state": "TX",
+      "mail_zip": "75020",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=AH&searchType=quickSearch",
+      "flags": [
+        "Probate / estate",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": true
+    },
+    {
+      "doc_num": "2026-DEMO-0005",
+      "doc_type": "ML",
+      "filed": "2026-11-10",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "BROWN MICHAEL",
+      "grantee": "LONE STAR CONTR",
+      "amount": 22000.0,
+      "legal": "DEMO RECORD",
+      "prop_address": "407 INDIAN CREEK RD",
+      "prop_city": "VAN ALSTYNE",
+      "prop_state": "TX",
+      "prop_zip": "75495",
+      "mail_address": "407 INDIAN CREEK RD",
+      "mail_city": "VAN ALSTYNE",
+      "mail_state": "TX",
+      "mail_zip": "75495",
+      "clerk_url": "https://grayson.tx.publicsearch.us/results?department=RP&_docTypes=ML&searchType=quickSearch",
+      "flags": [
+        "Mechanic lien",
         "New this week"
       ],
       "score": 60,
-      "_demo": false
+      "_demo": true
     }
   ]
 }
