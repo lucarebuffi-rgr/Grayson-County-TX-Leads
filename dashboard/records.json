@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-15T14:40:58.969092Z",
+  "fetched_at": "2026-11-16T16:53:17.181318Z",
   "source": "Grayson County TX \u2013 PublicSearch",
   "date_range": {
-    "from": "11/08/2026",
-    "to": "11/15/2026"
+    "from": "11/09/2026",
+    "to": "11/16/2026"
   },
   "total": 3,
   "with_address": 3,
@@ -11,7 +11,7 @@
     {
       "doc_num": "2026-DEMO-0001",
       "doc_type": "LP",
-      "filed": "2026-11-08",
+      "filed": "2026-11-09",
       "cat": "pre_foreclosure",
       "cat_label": "Lis Pendens",
       "owner": "SMITH ROBERT",
@@ -37,7 +37,7 @@
     {
       "doc_num": "2026-DEMO-0010",
       "doc_type": "AH",
-      "filed": "2026-11-10",
+      "filed": "2026-11-11",
       "cat": "probate",
       "cat_label": "Affidavit of Heirship",
       "owner": "GARCIA CARLOS",
@@ -63,7 +63,7 @@
     {
       "doc_num": "2026-DEMO-0005",
       "doc_type": "ML",
-      "filed": "2026-11-12",
+      "filed": "2026-11-13",
       "cat": "lien",
       "cat_label": "Mechanics Lien",
       "owner": "BROWN MICHAEL",
